@@ -1,0 +1,93 @@
+body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #c3becf;
+            color: #3d4ea2;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        /* 追加のスタイル */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+
+        /* スクロールバーのスタイル */
+        .scrollable {
+            max-height: 300px;
+            overflow-y: auto;
+        }
+
+        /* チェックボックスのスタイル */
+        td input[type="checkbox"] {
+            width: 100%; /* チェックボックスは列全体の幅を使う */
+            height: 100%; /* チェックボックスの高さも列全体と同じにする */
+            margin: 0; /* マージンをなくすことでクリック可能な領域を拡大 */
+        }
+
+        /* 集計行のスタイル */
+        #summary-row {
+            font-weight: bold;
+        }
+        /* ボタンのスタイル */
+        .navigation-btn {
+            display: inline-block;
+            margin: 20px;
+            padding: 10px 20px;
+            font-size: 18px;
+            text-decoration: none;
+            color: #333;
+            background-color: #fff;
+            border: 2px solid #333;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        /* 十字に配置するスタイル */
+        .navigation-container {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        /* スクロールバーのスタイル */
+        .scrollable {
+            max-height: 300px;
+            overflow-y: auto;
+        }
