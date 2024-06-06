@@ -1,0 +1,11 @@
+{
+    "quizzes": [
+        {
+            "id": "20221010",
+            "mondai": "<div id=\"mondai\">正の整数Mに対して，次の二つの流れ図に示すアルゴリズムを実行したとき，結果xの値が等しくなるようにしたい。aに入れる条件として，適切なものはどれか。<div class=\"img_margin\"><img alt=\"10.png/image-size:455×296\" height=\"296\" src=\"20221010-0.png\" width=\"455\"/></div></div>",
+            "sentaku": [],
+            "answer": 0,
+            "bunrui": 0
+        }
+    ]
+}
