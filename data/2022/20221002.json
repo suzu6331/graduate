@@ -1,0 +1,11 @@
+{
+    "quizzes": [
+        {
+            "id": "20221002",
+            "mondai": "<div id=\"mondai\">2の補数で表された負数 10101110 の絶対値はどれか。</div>",
+            "sentaku": [],
+            "answer": 0,
+            "bunrui": 0
+        }
+    ]
+}
