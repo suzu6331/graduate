@@ -3,9 +3,9 @@
         {
             "id": "20221018",
             "mondai": "<div id=\"mondai\">仮想記憶におけるページ置換えアルゴリズムの一つであるLRUを説明した記述はどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "エ"
         }
     ]
 }
