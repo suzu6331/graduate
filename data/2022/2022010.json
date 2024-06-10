@@ -2,12 +2,12 @@
     "quizzes": [
         {
             "id": "2022010",
-            "mondai": "<div id=\"mondai\">正の整数Mに対して，次の二つの流れ図に示すアルゴリズムを実行したとき，結果xの値が等しくなるようにしたい。aに入れる条件として，適切なものはどれか。<div class=\"img_margin\"><img alt=\"10.png/image-size:455×296\" height=\"296\" src=\"2022010-1-0.png\" width=\"455\"/></div></div>",
+            "mondai": "<div id=\"mondai\">正の整数Mに対して，次の二つの流れ図に示すアルゴリズムを実行したとき，結果xの値が等しくなるようにしたい。aに入れる条件として，適切なものはどれか。<div class=\"img_margin\"><div class=\"img_margin\">&lt;div class=\"img_margin\"&gt;<img alt=\"10.png/image-size:455×296\" height=\"296\" src=\"2022010-1-0.png\" width=\"455\"/>&lt;/div&gt;</div></div></div>",
             "sentaku": [
-                "アn ＜ M",
-                "イn ＞ M－1",
-                "ウn ＞ M",
-                "エn ＞ M＋1"
+                "n ＜ M",
+                "n ＞ M－1",
+                "n ＞ M",
+                "n ＞ M＋1"
             ],
             "kaitou": "ア"
         }
