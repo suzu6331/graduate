@@ -3,9 +3,9 @@
         {
             "id": "20221073",
             "mondai": "<div id=\"mondai\">インターネットを活用した広告手法のうち，行動ターゲティングの説明はどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "エ"
         }
     ]
 }
