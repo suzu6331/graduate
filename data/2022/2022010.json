@@ -3,13 +3,13 @@
         {
             "id": "2022010",
             "mondai": "正の整数Mに対して，次の二つの流れ図に示すアルゴリズムを実行したとき，結果xの値が等しくなるようにしたい。aに入れる条件として，適切なものはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "answer": null,
             "sentaku": [
                 "n ＜ M",
                 "n ＞ M－1",
                 "n ＞ M",
                 "n ＞ M＋1"
-            ],
-            "answer": 2
+            ]
         }
     ]
 }
