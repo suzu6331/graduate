@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2019078",
+            "mondai": "表の条件でA～Eの商品を販売したときの機会損失は何千円か。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "800",
+                "1,500",
+                "1,600",
+                "2,400"
+            ],
+            "answer": 3
+        }
+    ]
+}
