@@ -5,7 +5,7 @@
             "mondai": "<div id=\"mondai\">2の補数で表された負数 10101110 の絶対値はどれか。</div>",
             "sentaku": null,
             "kaitou": null,
-            "answer": "ウ"
+            "ans": "ウ"
         }
     ]
 }
