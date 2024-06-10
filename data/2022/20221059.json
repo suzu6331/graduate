@@ -3,9 +3,9 @@
         {
             "id": "20221059",
             "mondai": "<div id=\"mondai\">システム監査人が行う改善提案のフォローアップとして，適切なものはどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "ウ"
         }
     ]
 }
