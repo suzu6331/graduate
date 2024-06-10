@@ -3,9 +3,9 @@
         {
             "id": "20221075",
             "mondai": "<div id=\"mondai\">PDPCを説明したものはどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "ウ"
         }
     ]
 }
