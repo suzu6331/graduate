@@ -2,20 +2,14 @@
     "quizzes": [
         {
             "id": "2022019",
-            "mondai": "Hadoopの説明はどれか。",
+            "mondai": "<div id=\"mondai\">Hadoopの説明はどれか。</div>",
             "sentaku": [
                 "アJavaEE仕様に準拠したアプリケーションサーバ",
                 "イLinuxやWindowsなどの様々なプラットフォーム上で動作するWebサーバ",
                 "ウ機能の豊富さが特徴のRDBMS",
                 "エ大規模なデータセットを分散処理するためのソフトウェアライブラリ"
             ],
-            "kaitou": null,
-            "ans": [
-                "ア",
-                "イ",
-                "ウ",
-                "エ"
-            ]
+            "kaitou": "ア"
         }
     ]
 }
