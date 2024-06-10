@@ -3,9 +3,9 @@
         {
             "id": "20221061",
             "mondai": "<div id=\"mondai\">エンタープライズアーキテクチャにおいて，業務と情報システムの理想を表すモデルはどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "イ"
         }
     ]
 }
