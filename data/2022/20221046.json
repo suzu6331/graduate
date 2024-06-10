@@ -3,9 +3,9 @@
         {
             "id": "20221046",
             "mondai": "<div id=\"mondai\">オブジェクト指向における基底クラスと派生クラスの関係にあるものはどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "ウ"
         }
     ]
 }
