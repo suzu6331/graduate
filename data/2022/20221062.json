@@ -3,9 +3,9 @@
         {
             "id": "20221062",
             "mondai": "<div id=\"mondai\">情報戦略の投資効果を評価するとき，利益額を分子に，投資額を分母にして算出するものはどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "エ"
         }
     ]
 }
