@@ -2,7 +2,7 @@
     "quizzes": [
         {
             "id": "2022051",
-            "mondai": "<div id=\"mondai\">次のプレシデンスダイアグラムで表現されたプロジェクトスケジュールネットワーク図を，アローダイアグラムに書き直したものはどれか。ここで，プレシデンスダイアグラムの依存関係は全てFS関係とする。<div class=\"img_margin\"><img alt=\"51.png/image-size:518×174\" height=\"174\" src=\"2022051-1-0.png\" width=\"518\"/></div></div>",
+            "mondai": "<div id=\"mondai\">次のプレシデンスダイアグラムで表現されたプロジェクトスケジュールネットワーク図を，アローダイアグラムに書き直したものはどれか。ここで，プレシデンスダイアグラムの依存関係は全てFS関係とする。<div class=\"img_margin\"><div class=\"img_margin\">&lt;div class=\"img_margin\"&gt;<img alt=\"51.png/image-size:518×174\" height=\"174\" src=\"2022051-1-0.png\" width=\"518\"/>&lt;/div&gt;</div></div></div>",
             "sentaku": [
                 "<img data-image-index=\"0\">",
                 "<img data-image-index=\"1\">",
