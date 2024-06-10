@@ -3,9 +3,9 @@
         {
             "id": "20221019",
             "mondai": "<div id=\"mondai\">Hadoopの説明はどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "エ"
         }
     ]
 }
