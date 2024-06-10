@@ -3,13 +3,13 @@
         {
             "id": "2022051",
             "mondai": "次のプレシデンスダイアグラムで表現されたプロジェクトスケジュールネットワーク図を，アローダイアグラムに書き直したものはどれか。ここで，プレシデンスダイアグラムの依存関係は全てFS関係とする。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
-            "answer": 1,
             "sentaku": [
                 "<img data-image-index=\"1\">",
                 "<img data-image-index=\"2\">",
                 "<img data-image-index=\"3\">",
                 "<img data-image-index=\"4\">"
-            ]
+            ],
+            "answer": 1
         }
     ]
 }
