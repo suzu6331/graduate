@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2018135",
+            "mondai": "携帯電話網で使用される通信規格の名称であり，次の三つの特徴をもつものはどれか。\n全ての通信をパケット交換方式で処理する。\n複数のアンテナを使用するMIMOと呼ばれる通信方式が利用可能である。\n国際標準化プロジェクト3GPP(3rd Generation Partnership Project)で標準化されている。",
+            "sentaku": [
+                "LTE(Long Term Evolution)",
+                "MAC(Media Access Control)",
+                "MDM(Mobile Device Management)",
+                "VoIP(Voice over Internet Protocol)"
+            ],
+            "answer": 0
+        }
+    ]
+}
