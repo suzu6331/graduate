@@ -2,12 +2,12 @@
     "quizzes": [
         {
             "id": "2022015",
-            "mondai": "<div id=\"mondai\">ジョブの多重度が1で，到着順にジョブが実行されるシステムにおいて，表に示す状態のジョブA～Cを処理するとき，ジョブCが到着してから実行が終了するまでのターンアラウンドタイムは何秒か。ここで， OSのオーバーヘッドは考慮しないものとする。<div class=\"img_margin\"><img alt=\"15.png/image-size:279×143\" height=\"143\" src=\"2022015-1-0.png\" width=\"279\"/></div></div>",
+            "mondai": "<div id=\"mondai\">ジョブの多重度が1で，到着順にジョブが実行されるシステムにおいて，表に示す状態のジョブA～Cを処理するとき，ジョブCが到着してから実行が終了するまでのターンアラウンドタイムは何秒か。ここで， OSのオーバーヘッドは考慮しないものとする。<div class=\"img_margin\"><div class=\"img_margin\">&lt;div class=\"img_margin\"&gt;<img alt=\"15.png/image-size:279×143\" height=\"143\" src=\"2022015-1-0.png\" width=\"279\"/>&lt;/div&gt;</div></div></div>",
             "sentaku": [
-                "ア11",
-                "イ12",
-                "ウ13",
-                "エ14"
+                "11",
+                "12",
+                "13",
+                "14"
             ],
             "kaitou": "ア"
         }
