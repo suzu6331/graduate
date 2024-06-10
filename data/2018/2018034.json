@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2018034",
+            "mondai": "電子メールのヘッダーフィールドのうち，SMTPでメッセージが転送される過程で削除されるものはどれか。",
+            "sentaku": [
+                "Bcc",
+                "Date",
+                "Received",
+                "X-Mailer"
+            ],
+            "answer": 0
+        }
+    ]
+}
