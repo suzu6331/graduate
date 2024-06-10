@@ -1,15 +1,7 @@
 {
     "quizzes": [
         {
-            "id": "2022003",
-            "mondai": "隣接行列Aで表されるグラフはどれか。ここで，隣接行列とは，n個の節点から成るグラフの節点V\ni\nとV\nj\nを結ぶ枝が存在するときは第i行第j列と第j行第i列の要素が1となり，存在しないときは0となるn行n列の行列である。\n〔隣接行列A〕<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
-            "answer": 3,
-            "sentaku": [
-                "<img data-image-index=\"1\">",
-                "<img data-image-index=\"2\">",
-                "<img data-image-index=\"3\">",
-                "<img data-image-index=\"4\">"
-            ]
+            "answer": 3
         }
     ]
 }
