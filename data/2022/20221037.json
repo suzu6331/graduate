@@ -3,9 +3,9 @@
         {
             "id": "20221037",
             "mondai": "<div id=\"mondai\">発信者がメッセージのハッシュ値からデジタル署名を生成するのに使う鍵はどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "エ"
         }
     ]
 }
