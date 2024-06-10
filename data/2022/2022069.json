@@ -2,20 +2,14 @@
     "quizzes": [
         {
             "id": "2022069",
-            "mondai": "TLO(Technology Licensing Organization)の役割として，適切なものはどれか。",
+            "mondai": "<div id=\"mondai\">TLO(Technology Licensing Organization)の役割として，適切なものはどれか。</div>",
             "sentaku": [
                 "アTLO自らが研究開発して取得した特許の，企業へのライセンス",
                 "イ企業から大学への委託研究の問合せ及び申込みの受付",
                 "ウ新規事業又は市場への参入のための，企業の合併又は買収の支援",
                 "エ大学の研究成果の特許化及び企業への技術移転の促進"
             ],
-            "kaitou": null,
-            "ans": [
-                "ア",
-                "イ",
-                "ウ",
-                "エ"
-            ]
+            "kaitou": "ア"
         }
     ]
 }
