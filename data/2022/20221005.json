@@ -2,10 +2,10 @@
     "quizzes": [
         {
             "id": "20221005",
-            "mondai": "<div id=\"mondai\">次の式を逆ポーランド表記法で表現したものはどれか。<br/><br/>　<span class=\"frac\"><span>(A＋B)×(C＋D)</span>A－D</span></div>",
+            "mondai": "次の式を逆ポーランド表記法で表現したものはどれか。　(A＋B)×(C＋D)A－D",
             "sentaku": null,
             "kaitou": null,
-            "ans": "ア"
+            "answer": "ア"
         }
     ]
 }
