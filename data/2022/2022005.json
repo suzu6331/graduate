@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2022005",
+            "mondai": "次の式を逆ポーランド表記法で表現したものはどれか。\n(A＋B)×(C＋D)\nA－D",
+            "sentaku": [
+                "AB＋CD＋×AD－÷",
+                "AB＋CD＋AD－×÷",
+                "ABCD＋＋×AD－÷",
+                "ABCD＋＋÷AD－×"
+            ],
+            "answer": 0
+        }
+    ]
+}
