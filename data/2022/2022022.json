@@ -3,8 +3,8 @@
         {
             "id": "2022022",
             "mondai": "図に示す全加算器の入力xに1，yに0，zに1を入力したとき，出力となるc(けた上げ数)，s(和)の値の組合せとして，正しいものはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
-            "answer": 2,
-            "kaitou": "<img data-image-index=\"0\">"
+            "kaitou": "<img data-image-index=\"0\">",
+            "answer": 2
         }
     ]
 }
