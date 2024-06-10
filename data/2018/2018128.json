@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2018128",
+            "mondai": "関係XとYを自然結合した後，関係Zを得る関係代数演算はどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "射影と和",
+                "選択",
+                "選択と射影",
+                "選択と和"
+            ],
+            "answer": 2
+        }
+    ]
+}
