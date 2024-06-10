@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2018122",
+            "mondai": "2入力NAND素子を用いて4入力NAND回路を構成したものはどれか。",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 1
+        }
+    ]
+}
