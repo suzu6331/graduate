@@ -3,9 +3,9 @@
         {
             "id": "20221013",
             "mondai": "<div id=\"mondai\">アクセス時間の最も短い記憶装置はどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "イ"
         }
     ]
 }
