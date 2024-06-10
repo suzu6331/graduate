@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2018109",
+            "mondai": "動作クロック周波数が700MHzのCPUで，命令の実行に必要なクロック数とその命令の出現率が表に示す値である場合，このCPUの性能は約何MIPSか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "10",
+                "50",
+                "70",
+                "100"
+            ],
+            "answer": 3
+        }
+    ]
+}
