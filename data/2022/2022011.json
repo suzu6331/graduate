@@ -3,13 +3,13 @@
         {
             "id": "2022011",
             "mondai": "表に示す命令ミックスによるコンピュータの処理性能は，何MIPSか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
-            "answer": 2,
             "sentaku": [
                 "11",
                 "25",
                 "40",
                 "90"
-            ]
+            ],
+            "answer": 2
         }
     ]
 }
