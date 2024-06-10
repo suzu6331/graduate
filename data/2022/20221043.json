@@ -3,9 +3,9 @@
         {
             "id": "20221043",
             "mondai": "<div id=\"mondai\">図のような構成と通信サービスのシステムにおいて，Webアプリケーションの脆弱性対策のためのWAFの設置場所として，最も適切な箇所はどこか。ここで，WAFには通信を暗号化したり，復号したりする機能はないものとする。<div class=\"img_margin\"><img alt=\"43.png/image-size:183×333\" height=\"333\" src=\"20221043-0.png\" width=\"183\"/></div></div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "ウ"
         }
     ]
 }
