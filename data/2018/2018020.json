@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2018020",
+            "mondai": "多数のサーバで構成された大規模な分散ファイルシステム機能を提供し，MapReduceによる大規模データの分散処理を実現するOSSはどれか。",
+            "sentaku": [
+                "Apache Hadoop",
+                "Apache Kafka",
+                "Apache Spark",
+                "Apache Storm"
+            ],
+            "answer": 0
+        }
+    ]
+}
