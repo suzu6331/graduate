@@ -3,8 +3,8 @@
         {
             "id": "2022027",
             "mondai": "部品在庫管理台帳における，部品，仕入先，在庫の三つのエンティティの関係をデータモデルとして記述した。エンティティa～cの組合せとして，適切なものはどれか。ここで，\n1　*\nは1対多の関連を表す。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
-            "answer": 3,
-            "kaitou": "<img data-image-index=\"0\">"
+            "kaitou": "<img data-image-index=\"0\">",
+            "answer": 3
         }
     ]
 }
