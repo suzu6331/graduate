@@ -3,9 +3,9 @@
         {
             "id": "20221068",
             "mondai": "<div id=\"mondai\">コモディティ化の説明はどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "ウ"
         }
     ]
 }
