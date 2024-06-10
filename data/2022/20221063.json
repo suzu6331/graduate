@@ -3,9 +3,9 @@
         {
             "id": "20221063",
             "mondai": "<div id=\"mondai\">テレワークで活用しているVDIに関する記述として，適切なものはどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "ア"
         }
     ]
 }
