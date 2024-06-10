@@ -2,12 +2,12 @@
     "quizzes": [
         {
             "id": "2022011",
-            "mondai": "<div id=\"mondai\">表に示す命令ミックスによるコンピュータの処理性能は，何MIPSか。<div class=\"img_margin\"><img alt=\"11.png/image-size:361×103\" height=\"103\" src=\"2022011-1-0.png\" width=\"361\"/></div></div>",
+            "mondai": "<div id=\"mondai\">表に示す命令ミックスによるコンピュータの処理性能は，何MIPSか。<div class=\"img_margin\"><div class=\"img_margin\">&lt;div class=\"img_margin\"&gt;<img alt=\"11.png/image-size:361×103\" height=\"103\" src=\"2022011-1-0.png\" width=\"361\"/>&lt;/div&gt;</div></div></div>",
             "sentaku": [
-                "ア11",
-                "イ25",
-                "ウ40",
-                "エ90"
+                "11",
+                "25",
+                "40",
+                "90"
             ],
             "kaitou": "ア"
         }
