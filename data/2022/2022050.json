@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2022050",
+            "mondai": "<div id=\"mondai\">アジャイル開発におけるプラクティスの一つであるバーンダウンチャートはどれか。ここで，図中の破線は予定又は予想を，実線は実績を表す。</div>",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "kaitou": "ア"
+        }
+    ]
+}
