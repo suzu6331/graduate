@@ -3,9 +3,9 @@
         {
             "id": "20221035",
             "mondai": "<div id=\"mondai\">2要素認証に該当する組みはどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "ウ"
         }
     ]
 }
