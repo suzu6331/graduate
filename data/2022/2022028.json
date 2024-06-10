@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2022028",
+            "mondai": "次の表は，営業担当者のある年度の販売実績である。この表の第1期から第4期の販売金額の平均が4,000万円以上で，どの期でも3,000万円以上販売している営業担当者の名前を求めるSQL文として，適切なものはどれか。ここで，金額の単位は千円とする。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "answer": 3,
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ]
+        }
+    ]
+}
