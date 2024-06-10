@@ -3,9 +3,9 @@
         {
             "id": "20221030",
             "mondai": "<div id=\"mondai\">TCP/IPネットワークで使用されるARPの説明として，適切なものはどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "ア"
         }
     ]
 }
