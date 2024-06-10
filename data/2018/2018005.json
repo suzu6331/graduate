@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2018005",
+            "mondai": "次の二つのスタック操作を定義する。\nPUSH n：スタックにデータ(整数値n)をプッシュする。\nPOP：スタックからデータをポップする。\n空のスタックに対して，次の順序でスタック操作を行った結果はどれか。\nPUSH 1 → PUSH 5 → POP → PUSH 7 → PUSH 6 → PUSH 4 → POP → POP → PUSH 3",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 2
+        }
+    ]
+}
