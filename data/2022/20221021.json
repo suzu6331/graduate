@@ -3,9 +3,9 @@
         {
             "id": "20221021",
             "mondai": "<div id=\"mondai\">ワンチップマイコンの内蔵メモリとしてフラッシュメモリが採用されている理由として、適切なものはどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "イ"
         }
     ]
 }
