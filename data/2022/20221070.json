@@ -3,9 +3,9 @@
         {
             "id": "20221070",
             "mondai": "<div id=\"mondai\">PLM(Product Lifecycle Management)の目的はどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "イ"
         }
     ]
 }
