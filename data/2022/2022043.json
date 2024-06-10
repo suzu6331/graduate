@@ -2,12 +2,12 @@
     "quizzes": [
         {
             "id": "2022043",
-            "mondai": "<div id=\"mondai\">図のような構成と通信サービスのシステムにおいて，Webアプリケーションの脆弱性対策のためのWAFの設置場所として，最も適切な箇所はどこか。ここで，WAFには通信を暗号化したり，復号したりする機能はないものとする。<div class=\"img_margin\"><img alt=\"43.png/image-size:183×333\" height=\"333\" src=\"2022043-1-0.png\" width=\"183\"/></div></div>",
+            "mondai": "<div id=\"mondai\">図のような構成と通信サービスのシステムにおいて，Webアプリケーションの脆弱性対策のためのWAFの設置場所として，最も適切な箇所はどこか。ここで，WAFには通信を暗号化したり，復号したりする機能はないものとする。<div class=\"img_margin\"><div class=\"img_margin\">&lt;div class=\"img_margin\"&gt;<img alt=\"43.png/image-size:183×333\" height=\"333\" src=\"2022043-1-0.png\" width=\"183\"/>&lt;/div&gt;</div></div></div>",
             "sentaku": [
-                "アa",
-                "イb",
-                "ウc",
-                "エd"
+                "a",
+                "b",
+                "c",
+                "d"
             ],
             "kaitou": "ア"
         }
