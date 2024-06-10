@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2019021",
+            "mondai": "メモリセルにフリップフロップ回路を利用したものはどれか。",
+            "sentaku": [
+                "DRAM",
+                "EEPROM",
+                "SDRAM",
+                "SRAM"
+            ],
+            "answer": 3
+        }
+    ]
+}
