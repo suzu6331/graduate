@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2022012",
+            "mondai": "同じ命令セットをもつコンピュータAとBがある。それぞれのCPUクロック周期，及びあるプログラムを実行したときのCPI(Cycles Per Instruction)は，表のとおりである。そのプログラムを実行したとき，コンピュータAの処理時間は，コンピュータBの処理時間の何倍になるか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "1\n32",
+                "1\n2",
+                "2",
+                "8"
+            ],
+            "answer": 0
+        }
+    ]
+}
