@@ -3,9 +3,9 @@
         {
             "id": "20221079",
             "mondai": "<div id=\"mondai\">電子署名法に関する記述のうち，適切なものはどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "イ"
         }
     ]
 }
