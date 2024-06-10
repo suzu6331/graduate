@@ -2,10 +2,10 @@
     "quizzes": [
         {
             "id": "20221013",
-            "mondai": "<div id=\"mondai\">アクセス時間の最も短い記憶装置はどれか。</div>",
+            "mondai": "アクセス時間の最も短い記憶装置はどれか。",
             "sentaku": null,
             "kaitou": null,
-            "ans": "イ"
+            "answer": "イ"
         }
     ]
 }
