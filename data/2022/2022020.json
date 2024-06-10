@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2022020",
+            "mondai": "16進数 ABCD1234 をリトルエンディアンで4バイトのメモリに配置したものはどれか。ここで， 0～＋3はバイトアドレスのオフセット値である。",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 0
+        }
+    ]
+}
