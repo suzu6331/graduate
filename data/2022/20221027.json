@@ -3,9 +3,9 @@
         {
             "id": "20221027",
             "mondai": "<div id=\"mondai\">部品在庫管理台帳における，部品，仕入先，在庫の三つのエンティティの関係をデータモデルとして記述した。エンティティa～cの組合せとして，適切なものはどれか。ここで，<u>1　*</u>は1対多の関連を表す。<div class=\"img_margin\"><img alt=\"27.png/image-size:556×239\" height=\"239\" src=\"20221027-0.png\" width=\"556\"/></div></div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "エ"
         }
     ]
 }
