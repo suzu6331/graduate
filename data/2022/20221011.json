@@ -2,10 +2,10 @@
     "quizzes": [
         {
             "id": "20221011",
-            "mondai": "<div id=\"mondai\">表に示す命令ミックスによるコンピュータの処理性能は，何MIPSか。<div class=\"img_margin\"><img alt=\"11.png/image-size:361×103\" height=\"103\" src=\"20221011-0.png\" width=\"361\"/></div></div>",
+            "mondai": "表に示す命令ミックスによるコンピュータの処理性能は，何MIPSか。",
             "sentaku": null,
             "kaitou": null,
-            "ans": "ウ"
+            "answer": "ウ"
         }
     ]
 }
