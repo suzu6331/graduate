@@ -3,9 +3,9 @@
         {
             "id": "20221012",
             "mondai": "<div id=\"mondai\">同じ命令セットをもつコンピュータAとBがある。それぞれのCPUクロック周期，及びあるプログラムを実行したときのCPI(Cycles Per Instruction)は，表のとおりである。そのプログラムを実行したとき，コンピュータAの処理時間は，コンピュータBの処理時間の何倍になるか。<div class=\"img_margin\"><img alt=\"12.png/image-size:303×79\" height=\"79\" src=\"20221012-0.png\" width=\"303\"/></div></div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "ウ"
         }
     ]
 }
