@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2019028",
+            "mondai": "関係モデルにおいて表Xから表Yを得る関係演算はどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "結合(join)",
+                "射影(projection)",
+                "選択(selection)",
+                "併合(merge)"
+            ],
+            "answer": 1
+        }
+    ]
+}
