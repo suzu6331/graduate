@@ -3,9 +3,9 @@
         {
             "id": "20221024",
             "mondai": "<div id=\"mondai\">音声などのアナログデータをデジタル化するために用いられるPCMで，音の信号を一定の周期でアナログ値のまま切り出す処理はどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "イ"
         }
     ]
 }
