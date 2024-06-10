@@ -3,7 +3,7 @@
         {
             "id": "2022019",
             "mondai": "Hadoopの説明はどれか。",
-            "answer": null,
+            "answer": 3,
             "sentaku": [
                 "JavaEE仕様に準拠したアプリケーションサーバ",
                 "LinuxやWindowsなどの様々なプラットフォーム上で動作するWebサーバ",
