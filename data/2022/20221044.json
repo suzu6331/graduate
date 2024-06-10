@@ -3,9 +3,9 @@
         {
             "id": "20221044",
             "mondai": "<div id=\"mondai\">ICカードの耐タンパ性を高める対策はどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "ウ"
         }
     ]
 }
