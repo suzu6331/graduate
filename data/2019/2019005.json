@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2019005",
+            "mondai": "2分探索木として適切なものはどれか。ここで，1～9の数字は，各ノード(節)の値を表す。",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 1
+        }
+    ]
+}
