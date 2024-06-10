@@ -4,10 +4,10 @@
             "id": "2022032",
             "mondai": "<div id=\"mondai\">電子メールで，静止画，動画，音声などの様々な情報を送ることができる仕組みはどれか。</div>",
             "sentaku": [
-                "アFTP",
-                "イMIME",
-                "ウPOP",
-                "エTELNET"
+                "FTP",
+                "MIME",
+                "POP",
+                "TELNET"
             ],
             "kaitou": "ア"
         }
