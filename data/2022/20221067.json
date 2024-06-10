@@ -3,9 +3,9 @@
         {
             "id": "20221067",
             "mondai": "<div id=\"mondai\">企業の競争戦略におけるフォロワ戦略はどれか。</div>",
-            "sentaku": [],
-            "answer": 0,
-            "bunrui": 0
+            "sentaku": null,
+            "kaitou": null,
+            "answer": "ウ"
         }
     ]
 }
