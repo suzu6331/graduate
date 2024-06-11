@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2019127",
+            "mondai": "関係モデルにおいて，関係から特定の属性だけを取り出す演算はどれか。",
+            "sentaku": [
+                "結合(join)",
+                "射影(projection)",
+                "選択(selection)",
+                "和(union)"
+            ],
+            "answer": 1
+        }
+    ]
+}
