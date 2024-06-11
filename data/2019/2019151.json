@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2019151",
+            "mondai": "二つのアクティビティが次の関係にあるとき，論理的な依存関係はどれか。\n\"システム要件定義プロセス\"が完了すれば，\"システム方式設計プロセス\"が開始できる。",
+            "sentaku": [
+                "FF関係(Finish-to-Finish)",
+                "FS関係(Finish-to-Start)",
+                "SF関係(Start-to-Finish)",
+                "SS関係(Start-to-Start)"
+            ],
+            "answer": 1
+        }
+    ]
+}
