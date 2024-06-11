@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2019104",
+            "mondai": "a及びbを定数とする関数 ƒ(t)＝\na\nt＋1\n及び g(t)＝\nb\nt\n2\n－t\nに対して，\nはどれか。ここで，a≠0，b≠0，t＞1とする。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "0",
+                "1",
+                "b\na",
+                "∞"
+            ],
+            "answer": 0
+        }
+    ]
+}
