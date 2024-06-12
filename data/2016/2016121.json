@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2016121",
+            "mondai": "アノードコモン型7セグメントLEDの点灯回路で，出力ポートに16進数で92を出力したときの表示状態はどれか。ここで，P7を最上位ビット(MSB)，P0を最下位ビット(LSB)とし，ポート出力が0のとき，LEDは点灯する。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 2
+        }
+    ]
+}
