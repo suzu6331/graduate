@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2020027",
+            "mondai": "次の表はどこまで正規化されたものか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "第2正規形",
+                "第3正規形",
+                "第4正規形",
+                "非正規形"
+            ],
+            "answer": 0
+        }
+    ]
+}
