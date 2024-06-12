@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2016129",
+            "mondai": "\"社員\"表と\"部門\"表に対し，次のSQL文を実行したときの結果はどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer": 2
+        }
+    ]
+}
