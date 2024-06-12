@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2016131",
+            "mondai": "二つのLANセグメントを接続する装置Aの機能をTCP/IPの階層モデルで表すと図のようになる。この装置Aはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "スイッチングハブ",
+                "ブリッジ",
+                "リピータハブ",
+                "ルータ"
+            ],
+            "answer": 3
+        }
+    ]
+}
