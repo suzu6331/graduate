@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2015102",
+            "mondai": "図の線上を，点Pから点Rを通って，点Qに至る最短経路は何通りあるか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "16",
+                "24",
+                "32",
+                "60"
+            ],
+            "answer": 3
+        }
+    ]
+}
