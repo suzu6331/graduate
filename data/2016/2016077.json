@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2016077",
+            "mondai": "ある工場では，これまでに発生した不良品について，発生要因ごとの件数を記録している。この記録に基づいて，不良品発生の上位を占める要因と件数の累積割合を表したパレート図はどれか。",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 0
+        }
+    ]
+}
