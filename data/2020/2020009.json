@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2020009",
+            "mondai": "要素番号が0から始まる配列 TANGO がある。n個の単語が TANGO[1] から TANGO[n] に入っている。図は，n番目の単語を TANGO[1] に移動するために，TANGO[1] から TANGO[n－1] の単語を順に一つずつ後ろにずらして単語表を再構成する流れ図である。aに入れる処理として，適切なものはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "TANGO[i] ← TANGO[n－i]",
+                "TANGO[i＋1] ← TANGO[i]",
+                "TANGO[n－i] ← TANGO[i]",
+                "TANGO[n－i] ← TANGO[i＋1]"
+            ],
+            "answer": 1
+        }
+    ]
+}
