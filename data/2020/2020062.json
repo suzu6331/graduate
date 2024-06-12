@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2020062",
+            "mondai": "物流業務において，10%の物流コストの削減の目標を立てて，図のような業務プロセスの改善活動を実施している。図中のcに相当する活動はどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "CSF(Critical Success Factor)の抽出",
+                "KGI(Key Goal Indicator)の設定",
+                "KPI(Key Performance Indicator)の設定",
+                "MBO(Management by Objectives)の導入"
+            ],
+            "answer": 2
+        }
+    ]
+}
