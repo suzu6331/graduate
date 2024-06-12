@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2016128",
+            "mondai": "関係代数の演算のうち，関係R，Sの直積(R×S)に対応するSELECT文はどれか。ここで，関係R，Sを表R，Sに対応させ，表R及びSにそれぞれ行の重複はないものとする。",
+            "sentaku": [
+                "SELECT * FROM R，S",
+                "SELECT * FROM R EXCEPT SELECT * FROM S",
+                "SELECT * FROM R UNION SELECT * FROM S",
+                "SELECT * FROM R INTERSECT SELECT * FROM S"
+            ],
+            "answer": 0
+        }
+    ]
+}
