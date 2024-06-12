@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2017178",
+            "mondai": "表から，期末在庫品を先入先出法で評価した場合の在庫評価額は何千円か。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "132",
+                "138",
+                "150",
+                "168"
+            ],
+            "answer": 2
+        }
+    ]
+}
