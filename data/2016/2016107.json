@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2016107",
+            "mondai": "整数x，y(x＞y≧0)に対して，次のように定義された関数F(x，y)がある。F(231，15)の値は幾らか。ここで，x mod y はxをyで割った余りである。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "2",
+                "3",
+                "5",
+                "7"
+            ],
+            "answer": 1
+        }
+    ]
+}
