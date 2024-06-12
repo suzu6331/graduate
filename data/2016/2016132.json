@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2016132",
+            "mondai": "TCP/IPネットワークにおいて，IPアドレスを動的に割り当てるプロトコルはどれか。",
+            "sentaku": [
+                "ARP",
+                "DHCP",
+                "RIP",
+                "SMTP"
+            ],
+            "answer": 1
+        }
+    ]
+}
