@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2015004",
+            "mondai": "入力されたビットに対して出力されるビットが0か1のいずれかである確率を遷移確率という。遷移確率を表にしたとき，a，b，c，dの関係はどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "a＋b＋c＋d＝1",
+                "a＋b＝1，c＋d＝1",
+                "a＋c＝1，b＋d＝1",
+                "a＋d＝1，b＋c＝1"
+            ],
+            "answer": 1
+        }
+    ]
+}
