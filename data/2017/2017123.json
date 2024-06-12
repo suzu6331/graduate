@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2017123",
+            "mondai": "図に示すデジタル回路と等価な論理式はどれか。ここで，論理式中の\"・\"は論理積，\"＋\"は論理和，\nX\nはXの否定を表す。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "X＝A・B＋\nA・B",
+                "X＝A・B＋\nA\n・\nB",
+                "X＝A・\nB\n＋\nA\n・B",
+                "X＝(\nA\n＋B)・(A＋\nB\n)"
+            ],
+            "answer": 2
+        }
+    ]
+}
