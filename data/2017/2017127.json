@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2017127",
+            "mondai": "SQL文においてFOREIGN KEYとREFERENCESを用いて指定する制約はどれか。",
+            "sentaku": [
+                "キー制約",
+                "検査制約",
+                "参照制約",
+                "表明"
+            ],
+            "answer": 2
+        }
+    ]
+}
