@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2017153",
+            "mondai": "図に示すプロジェクト活動のクリティカルパスはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "A→B→E→I→L",
+                "A→C→D→E→H→K",
+                "A→C→F→I→L",
+                "A→C→G→J→L"
+            ],
+            "answer": 3
+        }
+    ]
+}
