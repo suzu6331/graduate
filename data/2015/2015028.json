@@ -1,0 +1,10 @@
+{
+    "quizzes": [
+        {
+            "id": "2015028",
+            "mondai": "図のデータモデルを三つの表で実装する。このとき，\"A社への売上50,000円を，2015年4月4日に現金勘定に計上した\"ことを記録する\"移動\"表のa，bの適切な組合せはどれか。ここで，モデルの表記にはUMLを用いる。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "kaitou": "<img data-image-index=\"0\">",
+            "answer": 3
+        }
+    ]
+}
