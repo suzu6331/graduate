@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2015014",
+            "mondai": "オンラインリアルタイムシステムにおけるCPUの使用率と平均応答時間の関係を表したグラフとして，適切なものはどれか。ここで，トランザクションの発生はポアソン分布に従い，その処理時間は指数分布に従うものとする。",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 0
+        }
+    ]
+}
