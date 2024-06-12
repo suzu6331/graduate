@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2016106",
+            "mondai": "2分探索木になっている2分木はどれか。",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 1
+        }
+    ]
+}
