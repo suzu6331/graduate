@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2016123",
+            "mondai": "真理値表に示す3入力多数決回路はどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 0
+        }
+    ]
+}
