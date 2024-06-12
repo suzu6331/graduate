@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2021004",
+            "mondai": "連立一次方程式\nから，xの項の係数，yの項の係数，及び定数項だけを取り出した表(行列)を作り，基本操作(1)～(3)のいずれかを順次施すことによって，解\nが得られた。表(行列)が次のように左から右に推移する場合，同じ種類の基本操作が施された箇所の組合せはどれか。\n〔基本操作〕\nある行に0でない数を掛ける。\nある行と他の行を入れ替える。\nある行に他の行の定数倍を加える。\n〔表(行列)の推移〕<div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"1\"></div><div class=\"img_margin\"><img data-image-index=\"2\"></div>",
+            "sentaku": [
+                "a と b",
+                "a と c",
+                "b と c",
+                "b と d"
+            ],
+            "answer": 1
+        }
+    ]
+}
