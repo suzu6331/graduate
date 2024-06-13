@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2012002",
+            "mondai": "非負の2進数b\n1\nb\n2\n…b\nn\nを3倍にしたものはどれか。",
+            "sentaku": [
+                "b\n1\nb\n2\n…b\nn\n0＋b\n1\nb\n2\n…b\nn",
+                "b\n1\nb\n2\n…b\nn\n00－1",
+                "b\n1\nb\n2\n…b\nn\n000",
+                "b\n1\nb\n2\n…b\nn\n1"
+            ],
+            "answer": 0
+        }
+    ]
+}
