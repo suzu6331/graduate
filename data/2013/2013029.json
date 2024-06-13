@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2013029",
+            "mondai": "\"BOOKS\"表から書名に\"UNIX\"を含む行を全て探すために次のSQL文を用いる。aに指定する文字列として，適切なものはどれか。ここで，書名は\"BOOKS\"表の\"書名\"列に格納されている。\nSELECT * FROM BOOKS WHERE 書名 LIKE '\na\n'",
+            "sentaku": [
+                "%UNIX",
+                "%UNIX%",
+                "UNIX",
+                "UNIX%"
+            ],
+            "answer": 1
+        }
+    ]
+}
