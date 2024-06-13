@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2012066",
+            "mondai": "図に示す手順で情報システムを調達する場合，bに入るものはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "RFI",
+                "RFP",
+                "供給者の選定",
+                "契約の締結"
+            ],
+            "answer": 1
+        }
+    ]
+}
