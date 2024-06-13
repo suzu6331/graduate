@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2014040",
+            "mondai": "会社や団体が，自組織の従業員に貸与するスマートフォンに対して，セキュリティポリシーに従った一元的な設定をしたり，業務アプリケーションを配信したりして，スマートフォンの利用状況などを一元管理する仕組みはどれか。",
+            "sentaku": [
+                "BYOD(Bring Your Own Device)",
+                "ECM(Enterprise Contents Management)",
+                "LTE(Long Term Evolution)",
+                "MDM(Mobile Device Management)"
+            ],
+            "answer": 3
+        }
+    ]
+}
