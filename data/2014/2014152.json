@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2014152",
+            "mondai": "図に示すアローダイアグラムは，あるシステムの開発作業を表したものである。クリティカルパスはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "A－B－G－L－N",
+                "A－B－H－K－N",
+                "A－C－E－G－L－N",
+                "A－C－I－N"
+            ],
+            "answer": 2
+        }
+    ]
+}
