@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2014028",
+            "mondai": "\"商品\"表，\"在庫\"表に対する次のSQL文と，同じ結果が得られるSQL文はどれか。ここで，下線部は主キーを表す。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 3
+        }
+    ]
+}
