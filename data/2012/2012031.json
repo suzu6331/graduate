@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2012031",
+            "mondai": "表Rに対する次のSQL文の操作はどの関係演算か。\n〔SQL文〕\nSELECT A1, A3, A5, FROM R<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "結合",
+                "差",
+                "射影",
+                "直積"
+            ],
+            "answer": 2
+        }
+    ]
+}
