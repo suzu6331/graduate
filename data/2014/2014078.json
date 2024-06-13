@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2014078",
+            "mondai": "表は，ある企業の損益計算書である。損益分岐点は何百万円か。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "250",
+                "490",
+                "500",
+                "625"
+            ],
+            "answer": 3
+        }
+    ]
+}
