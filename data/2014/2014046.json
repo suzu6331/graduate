@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2014046",
+            "mondai": "UMLにおける図の\nの中に記述するものはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "関連名",
+                "クラス名",
+                "集約名",
+                "ユースケース名"
+            ],
+            "answer": 1
+        }
+    ]
+}
