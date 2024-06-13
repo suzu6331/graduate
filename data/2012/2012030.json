@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2012030",
+            "mondai": "\"注文\"表と\"製品\"表に対して，次のSQL文を実行したときに得られる結果はどれか。\nSELECT 製品名, 数量 FROM 注文, 製品\nWHERE 注文.製品コード = 製品.製品コード<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 2
+        }
+    ]
+}
