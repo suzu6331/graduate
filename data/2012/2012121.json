@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2012121",
+            "mondai": "ソフトウェアの統合開発環境として提供されているOSSはどれか。",
+            "sentaku": [
+                "Eclipse",
+                "GCC",
+                "Linux",
+                "Tomcat"
+            ],
+            "answer": 0
+        }
+    ]
+}
