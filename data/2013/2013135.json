@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2013135",
+            "mondai": "IPv4においてIPアドレスからMACアドレスを取得するために用いるプロトコルはどれか。",
+            "sentaku": [
+                "ARP",
+                "DHCP",
+                "ICMP",
+                "RARP"
+            ],
+            "answer": 0
+        }
+    ]
+}
