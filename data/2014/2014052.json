@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2014052",
+            "mondai": "図のように，プロジェクトチームが実行すべき作業を上位の階層から下位の階層へ段階的に分解したものを何と呼ぶか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "CPM",
+                "EVM",
+                "PERT",
+                "WBS"
+            ],
+            "answer": 3
+        }
+    ]
+}
