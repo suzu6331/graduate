@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2013176",
+            "mondai": "図は特性要因図の一部を表したものである。a，bの関係はどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "bはaの原因である。",
+                "bはaの手段である。",
+                "bはaの属性である。",
+                "bはaの目的である。"
+            ],
+            "answer": 0
+        }
+    ]
+}
