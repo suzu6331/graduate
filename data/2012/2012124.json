@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2012124",
+            "mondai": "Webページのスタイルを定義する仕組みはどれか。",
+            "sentaku": [
+                "CMS",
+                "CSS",
+                "PNG",
+                "SVG"
+            ],
+            "answer": 1
+        }
+    ]
+}
