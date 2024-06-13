@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2014006",
+            "mondai": "2分木の各ノードがもつ記号を出力する再帰的なプログラムProc(n)の定義は，次のとおりである。このプログラムを，図の2分木の根(最上位のノード)に適用したときの出力はどれか。\nProc(ノードn){\nnに左の子lがあればProc(l)を呼び出す\nnに右の子rがあればProc(r)を呼び出す\nnに書かれた記号を出力する\n}<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "＋a*－bcd",
+                "a＋b－c*d",
+                "abc－d*＋",
+                "b－c*d＋a"
+            ],
+            "answer": 2
+        }
+    ]
+}
