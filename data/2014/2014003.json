@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2014003",
+            "mondai": "論理式\nA\n・\nB\n・C＋A・\nB\n・C＋\nA\n・B・C＋A・B・C と恒等的に等しいものはどれか。ここで，・は論理積，＋は論理和，\nA\nはAの否定を表す。",
+            "sentaku": [
+                "A・B・C",
+                "A・B・C＋\nA\n・\nB\n・C",
+                "A・B＋B・C",
+                "C"
+            ],
+            "answer": 3
+        }
+    ]
+}
