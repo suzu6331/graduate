@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2013101",
+            "mondai": "集合(\nA\n∩B∩C)∪(A∩B∩\nC\n)を網掛け部分(\n)で表しているベン図はどれか。ここで，∩は積集合，∪は和集合，\nX\nはXの補集合を表す。",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 2
+        }
+    ]
+}
