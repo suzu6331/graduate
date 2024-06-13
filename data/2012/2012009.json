@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2012009",
+            "mondai": "Web環境での動的処理を実現するプログラムであって，Webサーバ上だけで動作するものはどれか。",
+            "sentaku": [
+                "JavaScript",
+                "Javaアプレット",
+                "Javaサーブレット",
+                "VBScript"
+            ],
+            "answer": 2
+        }
+    ]
+}
