@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2012107",
+            "mondai": "n!の値を，次の関数F(n)によって計算する。乗算の回数を表す式はどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "n－1",
+                "n",
+                "n\n2",
+                "n!"
+            ],
+            "answer": 1
+        }
+    ]
+}
