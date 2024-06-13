@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2013131",
+            "mondai": "\"商品\"表に対して，更新SQL文を実行するトランザクションが，デッドロックの発生によって異常終了した。異常終了後の\"商品\"表はどれか。ここで，\"商品\"表に対する他のトランザクションは，参照は行うが更新はしないものとする。\n〔更新SQL文〕\nDELETE FROM 商品 WHERE 商品コード＝'B020'<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 1
+        }
+    ]
+}
