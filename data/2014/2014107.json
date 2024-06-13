@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2014107",
+            "mondai": "次の関数 ƒ(n，k)がある。ƒ(4，2)の値は幾らか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "answer": 3
+        }
+    ]
+}
