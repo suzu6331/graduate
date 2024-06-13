@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2013036",
+            "mondai": "UDPを使用しているものはどれか。",
+            "sentaku": [
+                "FTP",
+                "NTP",
+                "POP3",
+                "TELNET"
+            ],
+            "answer": 1
+        }
+    ]
+}
