@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2021126",
+            "mondai": "関係Rと関係Sに対して，関係Xを求める関係演算はどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "IDで結合",
+                "差",
+                "直積",
+                "和"
+            ],
+            "answer": 3
+        }
+    ]
+}
