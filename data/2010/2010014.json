@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2010014",
+            "mondai": "3層クライアントサーバシステムで，クライアント以外の2層をそれぞれ1台のサーバを使用して実装した場合のシステム構成として，適切なものはどれか。ここで，APはアプリケーションを，DBはデータベースを表す。",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 0
+        }
+    ]
+}
