@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2011126",
+            "mondai": "論理式X＝\nA\n・B＋A・\nB\n＋\nA\n・\nB\nと同じ結果が得られる論理回路はどれか。\nここで，論理式中の・は論理積，＋は論理和，\nX\nはXの否定を表す。",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 1
+        }
+    ]
+}
