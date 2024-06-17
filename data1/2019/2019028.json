@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2019028",
+            "mondai": "過去3年分の記録を保存している\"試験結果\"表から，2018年度の平均点数が600点以上となったクラスのクラス名と平均点数の一覧を取得するSQL文はどれか。ここで，実線の下線は主キーを表す。\n試験結果（\n学生番号\n，\n受験年月日\n，点数，クラス名）",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 1
+        }
+    ]
+}
