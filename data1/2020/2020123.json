@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2020123",
+            "mondai": "次の表に示す値が格納されたLUT(Lookup Table)と等価な回路はどれか。ここで，LUTのアドレス信号A\n2\n～A\n0\nはA\n0\nがLSBで，ア～エの回路の入力信号aがA\n2\n，bがA\n1\n，cがA\n0\nに対応する。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 1
+        }
+    ]
+}
