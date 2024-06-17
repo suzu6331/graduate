@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2017128",
+            "mondai": "関係R(ID，A，B，C)のA，Cへの射影の結果とSQL文で求めた結果が同じになるように，aに入れるべき字句はどれか。ここで，関係Rを表Tで実現し，表Tに各行を格納したものを次に示す。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "ALL",
+                "DISTINCT",
+                "ORDER BY",
+                "REFERENCES"
+            ],
+            "answer": 1
+        }
+    ]
+}
