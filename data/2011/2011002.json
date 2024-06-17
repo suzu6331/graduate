@@ -1,3 +1,15 @@
 {
-    "quizzes": []
+    "quizzes": [
+        {
+            "id": "2011002",
+            "mondai": "三つの実数X～Zとそれぞれの近似値が次の場合，相対誤差の小さい順に並べたものはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "X，Y，Z",
+                "Y，Z，X",
+                "Z，X，Y",
+                "Z，Y，X"
+            ],
+            "answer": 3
+        }
+    ]
 }
