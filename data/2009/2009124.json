@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2009124",
+            "mondai": "二つの入力と一つの出力をもつ論理回路で，二つの入力A，Bがともに1のときだけ，出力xが0になるものはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "AND回路",
+                "NAND回路",
+                "OR回路",
+                "XOR回路"
+            ],
+            "answer": 1
+        }
+    ]
+}
