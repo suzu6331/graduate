@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2019023",
+            "mondai": "次の二つの回路の入力に値を与えたとき，表の入力A，B，C，Dと出力E，Fの組合せのうち，全ての素子が論理積素子で構成された左側の回路でだけ成立するものはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 2
+        }
+    ]
+}
