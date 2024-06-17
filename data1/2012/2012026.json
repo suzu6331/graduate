@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2012026",
+            "mondai": "販売価格が決められていない\"商品\"表に，次のSQL文を実行して販売価格を設定する。このとき，販売ランクがbの商品の販売価格の平均値は幾らか。\nUPDATE 商品 SET 販売価格 =\nCASE\nWHEN 販売ランク = 'a' THEN 単価 * 0.9\nWHEN 販売ランク = 'b' THEN 単価 - 500\nWHEN 販売ランク = 'c' THEN 単価 * 0.7\nELSE 単価\nEND<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "1,675",
+                "2,100",
+                "2,250",
+                "2,500"
+            ],
+            "answer": 3
+        }
+    ]
+}
