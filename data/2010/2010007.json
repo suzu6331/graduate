@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2010007",
+            "mondai": "Java VMが稼働している環境だけがあれば，WebブラウザやWebサーバがなくても動作するプログラムはどれか。",
+            "sentaku": [
+                "JavaScript",
+                "Javaアプリケーション",
+                "Javaアプレット",
+                "Javaサーブレット"
+            ],
+            "answer": 1
+        }
+    ]
+}
