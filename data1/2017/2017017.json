@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2017017",
+            "mondai": "サーバアプリケーションの開発のための，オブジェクト指向技術に基づいたコンポーネントソフトウェアの仕様はどれか。",
+            "sentaku": [
+                "EAI(Enterprise Application Integration)",
+                "EJB(Enterprise JavaBeans)",
+                "ERP(Enterprise Resource Planning)",
+                "UML(Unified Modeling Language)"
+            ],
+            "answer": 1
+        }
+    ]
+}
