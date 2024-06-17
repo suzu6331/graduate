@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2018026",
+            "mondai": "関係データベースのテーブルにレコードを1件追加したところ，インデックスとして使う，図のB\n+\n木のリーフノードCがノードC1とC2に分割された。ノード分割後のB\n+\n木構造はどれか。ここで，矢印はノードへのポインタとする。また，中間ノードAには十分な空きがあるものとする。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 1
+        }
+    ]
+}
