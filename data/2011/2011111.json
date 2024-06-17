@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2011111",
+            "mondai": "A～Dを，主記憶の実効アクセス時間が短い順に並べたものはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "A，B，C，D",
+                "A，D，B，C",
+                "C，D，A，B",
+                "D，C，A，B"
+            ],
+            "answer": 1
+        }
+    ]
+}
