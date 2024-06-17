@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2010035",
+            "mondai": "既存の電話回線を利用したADSLサービスで，ADSLモデムと電話機を接続する装置Aはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "スプリッタ",
+                "ターミナルアダプタ",
+                "ダイヤルアップルータ",
+                "ハブ"
+            ],
+            "answer": 0
+        }
+    ]
+}
