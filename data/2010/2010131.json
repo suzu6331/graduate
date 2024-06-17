@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2010131",
+            "mondai": "\"商品\"表に対してデータの更新処理が正しく実行できるUPDATE文はどれか。ここで，\"商品\"表は次のCREATE文で定義されている。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 3
+        }
+    ]
+}
