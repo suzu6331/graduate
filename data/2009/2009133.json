@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2009133",
+            "mondai": "SQLの構文として，正しいものはどれか。",
+            "sentaku": [
+                "SELECT 注文日, AVG(数量)\nFROM 注文明細",
+                "SELECT 注文日, AVG(数量)\nFROM 注文明細\nGROUP BY 注文日",
+                "SELECT 注文日, AVG(SUM(数量))\nFROM 注文明細\nGROUP BY 注文日",
+                "SELECT 注文日\nFROM 注文明細\nWHERE SUM(数量) > 1000\nGROUP BY 注文日"
+            ],
+            "answer": 1
+        }
+    ]
+}
