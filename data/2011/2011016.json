@@ -1,3 +1,15 @@
 {
-    "quizzes": []
+    "quizzes": [
+        {
+            "id": "2011016",
+            "mondai": "装置aとbのMTBFとMTTRが表のとおりであるとき，aとbを直列に接続したシステムの稼働率は幾らか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "0.72",
+                "0.80",
+                "0.85",
+                "0.90"
+            ],
+            "answer": 0
+        }
+    ]
 }
