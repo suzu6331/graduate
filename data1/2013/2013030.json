@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2013030",
+            "mondai": "A表は外部キーによってB表から参照されている。ここで，A表の行を削除するとき，それを参照しているB表の行を同時に全て削除することを指定するSQLの参照動作はどれか。",
+            "sentaku": [
+                "CASCADE",
+                "CONSTRAINT",
+                "NO ACTION",
+                "REFERENCES"
+            ],
+            "answer": 0
+        }
+    ]
+}
