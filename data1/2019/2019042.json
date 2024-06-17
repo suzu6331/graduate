@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2019042",
+            "mondai": "VPNで使用されるセキュアなプロトコルであるIPsec，L2TP，TLSの，OSI基本参照モデルにおける相対的な位置関係はどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            "answer": 2
+        }
+    ]
+}
