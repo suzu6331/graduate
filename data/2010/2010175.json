@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2010175",
+            "mondai": "商品売上高を商品アイテム別にABC分析したグラフはどれか。ここで，縦軸は売上高，横軸は商品アイテムを示す。",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 0
+        }
+    ]
+}
