@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2010115",
+            "mondai": "NAS(Network Attached Storage)の構成図として適切なものはどれか。ここで，図の\nはストレージの管理専用のファイルシステムを，二重線はストレージアクセス用のプロトコルを使用する専用ネットワークを意味するものとする。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 3
+        }
+    ]
+}
