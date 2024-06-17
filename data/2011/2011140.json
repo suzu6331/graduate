@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2011140",
+            "mondai": "TCP/IPネットワークにおいて，ネットワークの疎通確認に使われるものはどれか。",
+            "sentaku": [
+                "BOOTP",
+                "DHCP",
+                "MIB",
+                "ping"
+            ],
+            "answer": 3
+        }
+    ]
+}
