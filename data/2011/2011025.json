@@ -1,3 +1,10 @@
 {
-    "quizzes": []
+    "quizzes": [
+        {
+            "id": "2011025",
+            "mondai": "図に示す1けたの2進数xとyを加算し，z(和の1けた目)及びc(けた上げ)を出力する半加算器において，AとBの素子の組合せとして，適切なものはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "kaitou": "<img data-image-index=\"0\">",
+            "answer": 0
+        }
+    ]
 }
