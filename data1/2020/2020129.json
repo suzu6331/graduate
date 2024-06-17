@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2020129",
+            "mondai": "\"東京在庫\"表と\"大阪在庫\"表に対して，SQL文を実行して得られる結果はどれか。ここで，実線の下線は主キーを表す。\n〔SQL文〕\nSELECT 商品コード，在庫数 FROM 東京在庫\nUNION ALL\nSELECT 商品コード，在庫数 FROM 大阪在庫<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 3
+        }
+    ]
+}
