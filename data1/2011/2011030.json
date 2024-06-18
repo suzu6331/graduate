@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2011030",
+            "mondai": "\"社員\"表と\"人事異動\"表から社員ごとの勤務成績の平均を求める適切なSQL文はどれか。ここで，求める項目は，社員コード，社員名，勤務成績(平均)の3項目とする。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 1
+        }
+    ]
+}
