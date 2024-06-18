@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2012103",
+            "mondai": "4ビットから成る情報ビット x\n1\nx\n2\nx\n3\nx\n4\nに対して，\n(x\n1\n＋x\n2\n＋x\n3\n＋x\n5\n) mod 2＝0\n(x\n1\n＋x\n2\n＋x\n4\n＋x\n6\n) mod 2＝0\n(x\n2\n＋x\n3\n＋x\n4\n＋x\n7\n) mod 2＝0\nを満たす冗長ビット x\n5\nx\n6\nx\n7\nを付加した符号 x\n1\nx\n2\nx\n3\nx\n4\nx\n5\nx\n6\nx\n7\nを送信する。\n受信符号 y\n1\ny\n2\ny\n3\ny\n4\ny\n5\ny\n6\ny\n7\nが，送信符号と高々1ビットしか異ならないとき，\n(y\n1\n＋y\n2\n＋y\n3\n＋y\n5\n) mod 2\n(y\n1\n＋y\n2\n＋y\n4\n＋y\n6\n) mod 2\n(y\n2\n＋y\n3\n＋y\n4\n＋y\n7\n) mod 2\nがそれぞれ0になるかどうかによって，正しい情報ビット x\n1\nx\n2\nx\n3\nx\n4\nを求めることが可能である。y\n1\ny\n2\ny\n3\ny\n4\ny\n5\ny\n6\ny\n7\n＝1100010 であるとき，正しい情報ビットはどれか。ここで，a mod b は，aをbで割った余りを表す。",
+            "sentaku": [
+                "0100",
+                "1000",
+                "1100",
+                "1101"
+            ],
+            "answer": 3
+        }
+    ]
+}
