@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2011108",
+            "mondai": "データが昇順にソートされた配列X[i] (i=0,1,…,n-1)を2分探索する。流れ図のaに入るものとして，適切なものはどれか。ここで，流れ図の中の割り算は小数点以下を切り捨てるものとする。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "left＜right",
+                "left≦right",
+                "left＋1＜right",
+                "left＋1≦right"
+            ],
+            "answer": 1
+        }
+    ]
+}
