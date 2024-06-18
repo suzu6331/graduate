@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2012126",
+            "mondai": "六つのタプルから成る関係Rの単一の属性間において成立する全ての関数従属性を挙げたものはどれか。ここで，X→Yは，XがYを関数的に決定することを表す。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "A→B",
+                "A→C，C→A",
+                "A→B，A→C，C→A，C→B",
+                "A→B，A→C，B→C，C→A，C→B"
+            ],
+            "answer": 2
+        }
+    ]
+}
