@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2011045",
+            "mondai": "図は\"顧客が商品を注文する\"を表現したUMLのクラス図である。\"顧客が複数の商品をまとめて注文する\"を表現したクラス図はどれか。ここで，\"注文明細\"は一つの注文に含まれる１種類の商品に対応し，\"注文ヘッダー\"は複数の\"注文明細\"を束ねた一つの注文に対応する。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 0
+        }
+    ]
+}
