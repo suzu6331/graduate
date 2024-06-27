@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2009140",
+            "mondai": "無線LANやVPN接続などで利用され，利用者を認証するためのシステムはどれか。",
+            "sentaku": [
+                "DES",
+                "DNS",
+                "IDS",
+                "RADIUS"
+            ],
+            "answer": 3
+        }
+    ]
+}
