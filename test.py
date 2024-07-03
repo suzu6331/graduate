@@ -5,7 +5,7 @@ from github import Github, GithubException
 from urllib.parse import urljoin
 import os
 
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = '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'
 REPO_NAME = 'suzu6331/graduate'
 COMMIT_MESSAGE = 'Add scraped questions'
 
@@ -98,7 +98,11 @@ def fetch_questions(url, file_id):
 # 画像を保存して、GitHubにアップ
 def save_image(img_url, img_filename):
     img_response = requests.get(img_url)
+
+    ####################################################################################
+    # パスを変更する必要あり
     image_save_path = os.path.join('C:\\xampp\\htdocs\\php\\卒業研究\\data\\image', img_filename)
+    ####################################################################################
     with open(image_save_path, 'wb') as img_file:
         img_file.write(img_response.content)
         print(f"画像を保存しました: {image_save_path}")
@@ -159,9 +163,9 @@ def upload_to_github(token, repo_name, file_path, commit_message, content):
 
 def main():
     ##################################################################
-    base_url = 'https://www.fe-siken.com/kakomon/29_aki/q'
+    base_url = 'https://www.ap-siken.com/kakomon/05_aki/q'
     num_questions = 80  # 取得する問題数
-    year = "2017"
+    year = "2023"
     exam_type = "aki"  # または "haru" もしくは "aki"
     ##################################################################
 
@@ -176,6 +180,8 @@ def main():
         questions = fetch_questions(url, file_name)
         json_data = {"quizzes": questions}
         json_file_name = f"{year_directory}/{file_name}.json"
+
+        print(year_directory)
 
         save_to_json(json_data, json_file_name)
         upload_to_github(GITHUB_TOKEN, REPO_NAME, json_file_name, COMMIT_MESSAGE, json.dumps(json_data, ensure_ascii=False, indent=4))
