@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2012029",
+            "mondai": "関係データベースの表定義において，列の値の重複を禁止するために指定する字句はどれか。",
+            "sentaku": [
+                "CLUSTERING",
+                "DISTINCT",
+                "NOT NULL",
+                "UNIQUE"
+            ],
+            "answer": 3
+        }
+    ]
+}
