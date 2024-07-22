@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2012008",
+            "mondai": "関数gcd(m，n)が次のように定義されている。m＝135，n＝35のとき，gcd(m，n) は何回呼ばれるか。ここで，最初の gcd(135，35) の呼出しも，1回に数えるものとする。また，m，n(m＞n≧0)は整数とし，m mod n はmをnで割った余りを返すものとする。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "answer": 2
+        }
+    ]
+}
