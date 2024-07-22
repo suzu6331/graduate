@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2022107",
+            "mondai": "XMLにおいて，XML宣言中で符号化宣言を省略できる文字コードはどれか。",
+            "sentaku": [
+                "EUC-JP",
+                "ISO-2022-JP",
+                "Shift-JIS",
+                "UTF-16"
+            ],
+            "answer": 3
+        }
+    ]
+}
