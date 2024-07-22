@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2023040",
+            "mondai": "ソフトウェアの既知の脆弱性を一意に識別するために用いる情報はどれか。",
+            "sentaku": [
+                "CCE(Common Configuration Enumeration)",
+                "CVE(Common Vulnerabilities and Exposures)",
+                "CVSS(Common Vulnerability Scoring System)",
+                "CWE(Common Weakness Enumeration)"
+            ],
+            "answer": 1
+        }
+    ]
+}
