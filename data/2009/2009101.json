@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2009101",
+            "mondai": "N個の観測値の平均値を算出する式はどれか。ここで，SはN個の観測値の和(ただし，S＞0)とし，[X]は X以下で最大の整数とする。また，平均値は，小数第1位を四捨五入して整数値として求める。",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 3
+        }
+    ]
+}
