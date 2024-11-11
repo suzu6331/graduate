@@ -2,14 +2,14 @@
     "quizzes": [
         {
             "id": "2009077",
-            "mondai": "部品の受払記録が表のように示される場合，先入先出法を採用したときの4月10日の払出単価は何円か。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "mondai": "表は，ある企業の損益計算書である。損益分岐点は何百万円か。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
             "sentaku": [
-                "100",
-                "110",
-                "115",
-                "118"
+                "250",
+                "490",
+                "500",
+                "625"
             ],
-            "answer": 1
+            "answer": 3
         }
     ]
 }
