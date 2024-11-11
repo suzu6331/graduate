@@ -2,9 +2,14 @@
     "quizzes": [
         {
             "id": "2009039",
-            "mondai": "図の環境で利用される①～③のプロトコルの組合せとして，適切なものはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
-            "kaitou": "<img data-image-index=\"0\">",
-            "answer": 2
+            "mondai": "公開鍵暗号方式によって，n人が相互に暗号を使って通信する場合，異なる鍵は全体で幾つ必要になるか。ここで，公開鍵，秘密鍵をそれぞれ一つと数える。",
+            "sentaku": [
+                "n＋1",
+                "2n",
+                "n(n－1)\n2",
+                "log\n2\nn"
+            ],
+            "answer": 1
         }
     ]
 }
