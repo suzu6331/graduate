@@ -2,14 +2,14 @@
     "quizzes": [
         {
             "id": "2009003",
-            "mondai": "次に示す有限オートマトンが受理する入力例はどれか。ここで，S\n1\nは初期状態を，S\n3\nは受理状態を表している。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "mondai": "論理式\n(\nA\n＋B)・(A＋\nC\n)\nと等しいものはどれか。ここで，・論理積，＋は論理和，\nx\nはXの否定を表す。",
             "sentaku": [
-                "1011",
-                "1100",
-                "1101",
-                "1110"
+                "A・\nB\n＋\nA\n・C",
+                "A\n・B＋A・\nC",
+                "(A＋\nB\n)・(\nA\n＋C)",
+                "(\nA\n＋B)・(A＋\nC\n)"
             ],
-            "answer": 2
+            "answer": 0
         }
     ]
 }
