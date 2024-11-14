@@ -2,14 +2,14 @@
     "quizzes": [
         {
             "id": "2009033",
-            "mondai": "分散データベースにおいて図のようなコマンドシーケンスがあった。調停者がシーケンス a で発行したコマンドはどれか。ここで，コマンドシーケンスの記述にUMLのシーケンス図の記法を用いる。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "mondai": "関係データベースの\"製品\"表と\"売上\"表から，売上報告のビュー表を定義するSQL文中の\na\nに入るものはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
             "sentaku": [
-                "COMMITの実行要求",
-                "ROLLBACKの実行要求",
-                "判定コードの書出し要求",
-                "ログ書出しの実行要求"
+                "GRANT",
+                "INSERT",
+                "SCHEMA",
+                "SELECT"
             ],
-            "answer": 1
+            "answer": 3
         }
     ]
 }
