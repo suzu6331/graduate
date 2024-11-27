@@ -2,9 +2,9 @@
     "quizzes": [
         {
             "id": "2023075",
-            "mondai": "ビッグデータ分析の手法の一つであるデシジョンツリーを活用してマーケティング施策の判断に必要な事象を整理し，発生確率の精度を向上させた上で二つのマーケティング施策a，bの選択を行う。マーケティング施策を実行した場合の利益増加額(売上増加額－費用)の期待値が最大となる施策と，そのときの利益増加額の期待値の組合せはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "mondai": "ビッグデータ分析の手法の一つであるデシジョンツリーを活用してマーケティング施策の判断に必要な事象を整理し，発生確率の精度を向上させた上で二つのマーケティング施策a，bの選択を行う。マーケティング施策を実行した場合の利益増加額(売上増加額－費用)の期待値が最大となる施策と，そのときの利益増加額の期待値の組合せはどれか。<div class=\"img_margin\"><img data-image-index=\"0\" src=\"AP/image/2023075-0.png\"/></div>",
             "sentaku": [
-                ""
+                "<img data-image-index=\"0\" src=\"AP/image/2023075-choice-0.png\"/><br/><br/><button class=\"selectBtn\">ア</button>  <button class=\"selectBtn\">イ</button>  <button class=\"selectBtn\" id=\"t\">ウ</button>  <button class=\"selectBtn\">エ</button>  "
             ],
             "answer": 2
         }
