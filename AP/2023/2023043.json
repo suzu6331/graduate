@@ -4,7 +4,7 @@
             "id": "2023043",
             "mondai": "公衆無線LANのアクセスポイントを設置するときのセキュリティ対策とその効果の組みとして，適切なものはどれか。",
             "sentaku": [
-                ""
+                "<img data-image-index=\"0\" src=\"AP/image/2023043-choice-0.png\"/><br/><br/><button class=\"selectBtn\">ア</button>  <button class=\"selectBtn\">イ</button>  <button class=\"selectBtn\">ウ</button>  <button class=\"selectBtn\" id=\"t\">エ</button>  "
             ],
             "answer": 3
         }
