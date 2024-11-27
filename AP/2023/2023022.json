@@ -2,12 +2,12 @@
     "quizzes": [
         {
             "id": "2023022",
-            "mondai": "図1の電圧波形の信号を，図2の回路に入力したときの出力電圧の波形はどれか。ここで，\nは抵抗(R)，\nはダイオード(D)，\nは接地を表す。なお，ダイオードの順電圧は0Vであるとする。<div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"1\"></div><div class=\"img_margin\"><img data-image-index=\"2\"></div><div class=\"img_margin\"><img data-image-index=\"3\"></div><div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "mondai": "図1の電圧波形の信号を，図2の回路に入力したときの出力電圧の波形はどれか。ここで，<img data-image-index=\"0\" src=\"AP/image/2023022-0.png\"/>は抵抗(R)，<img data-image-index=\"1\" src=\"AP/image/2023022-1.png\"/>はダイオード(D)，<img data-image-index=\"2\" src=\"AP/image/2023022-2.png\"/>は接地を表す。なお，ダイオードの順電圧は0Vであるとする。<div class=\"img_margin\"><img data-image-index=\"3\" src=\"AP/image/2023022-3.png\"/></div>",
             "sentaku": [
-                "",
-                "",
-                "",
-                ""
+                "<button class=\"selectBtn\" id=\"t\">ア</button><span id=\"select_a\"><img data-image-index=\"0\" src=\"AP/image/2023022-choice-0.png\"/></span>",
+                "<button class=\"selectBtn\">イ</button><span id=\"select_i\"><img data-image-index=\"0\" src=\"AP/image/2023022-choice-0.png\"/></span>",
+                "<button class=\"selectBtn\">ウ</button><span id=\"select_u\"><img data-image-index=\"0\" src=\"AP/image/2023022-choice-0.png\"/></span>",
+                "<button class=\"selectBtn\">エ</button><span id=\"select_e\"><img data-image-index=\"0\" src=\"AP/image/2023022-choice-0.png\"/></span>"
             ],
             "answer": 0
         }
