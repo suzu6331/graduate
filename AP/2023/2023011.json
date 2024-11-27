@@ -2,12 +2,12 @@
     "quizzes": [
         {
             "id": "2023011",
-            "mondai": "<div id=\"mondai\">フラッシュメモリにおけるウェアレベリングの説明として，適切なものはどれか。</div>",
+            "mondai": "フラッシュメモリにおけるウェアレベリングの説明として，適切なものはどれか。",
             "sentaku": [
-                "<li><button class=\"selectBtn\" id=\"t\">ア</button><span id=\"select_a\">各ブロックの書込み回数がなるべく均等になるように，物理的な書込み位置を選択する。</span></li>",
-                "<li><button class=\"selectBtn\">イ</button><span id=\"select_i\">記憶するセルの電子の量に応じて，複数のビット情報を記録する。</span></li>",
-                "<li><button class=\"selectBtn\">ウ</button><span id=\"select_u\">不良のブロックを検出し，交換領域にある正常な別のブロックで置き換える。</span></li>",
-                "<li><button class=\"selectBtn\">エ</button><span id=\"select_e\">ブロック単位でデータを消去し，新しいデータを書き込む。</span></li>"
+                "<button class=\"selectBtn\" id=\"t\">ア</button><span id=\"select_a\">各ブロックの書込み回数がなるべく均等になるように，物理的な書込み位置を選択する。</span>",
+                "<button class=\"selectBtn\">イ</button><span id=\"select_i\">記憶するセルの電子の量に応じて，複数のビット情報を記録する。</span>",
+                "<button class=\"selectBtn\">ウ</button><span id=\"select_u\">不良のブロックを検出し，交換領域にある正常な別のブロックで置き換える。</span>",
+                "<button class=\"selectBtn\">エ</button><span id=\"select_e\">ブロック単位でデータを消去し，新しいデータを書き込む。</span>"
             ],
             "answer": 0
         }
