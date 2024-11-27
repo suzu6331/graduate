@@ -2,12 +2,12 @@
     "quizzes": [
         {
             "id": "2023036",
-            "mondai": "ボットネットにおいてC&Cサーバが担う役割はどれか。",
+            "mondai": "ボットネットにおいてC&amp;Cサーバが担う役割はどれか。",
             "sentaku": [
-                "遠隔操作が可能なマルウェアに，情報収集及び攻撃活動を指示する。",
-                "攻撃の踏み台となった複数のサーバからの通信を制御して遮断する。",
-                "電子商取引事業者などへの偽のデジタル証明書の発行を命令する。",
-                "不正なWebコンテンツのテキスト，画像及びレイアウト情報を一元的に管理する。"
+                "<button class=\"selectBtn\" id=\"t\">ア</button><span id=\"select_a\">遠隔操作が可能なマルウェアに，情報収集及び攻撃活動を指示する。</span>",
+                "<button class=\"selectBtn\">イ</button><span id=\"select_i\">攻撃の踏み台となった複数のサーバからの通信を制御して遮断する。</span>",
+                "<button class=\"selectBtn\">ウ</button><span id=\"select_u\">電子商取引事業者などへの偽のデジタル証明書の発行を命令する。</span>",
+                "<button class=\"selectBtn\">エ</button><span id=\"select_e\">不正なWebコンテンツのテキスト，画像及びレイアウト情報を一元的に管理する。</span>"
             ],
             "answer": 0
         }
