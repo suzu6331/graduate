@@ -2,12 +2,12 @@
     "quizzes": [
         {
             "id": "2023001",
-            "mondai": "0以上255以下の整数nに対して，\nと定義する。next(n)と等しい式はどれか。ここで，x AND y 及び x OR y は，それぞれxとyを2進数表現にして，桁ごとの論理積及び論理和をとったものとする。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "mondai": "<div id=\"mondai\">0以上255以下の整数nに対して，<div class=\"img_margin\"><img alt=\"01.png/image-size:220×38\" height=\"38\" src=\"AP/image/2023001-0.png\" width=\"220\"/></div>と定義する。next(n)と等しい式はどれか。ここで，x AND y 及び x OR y は，それぞれxとyを2進数表現にして，桁ごとの論理積及び論理和をとったものとする。</div>",
             "sentaku": [
-                "(n＋1) AND 255",
-                "(n＋1) AND 256",
-                "(n＋1) OR 255",
-                "(n＋1) OR 256"
+                "<li><button class=\"selectBtn\" id=\"t\">ア</button><span id=\"select_a\">(n＋1) AND 255</span></li>",
+                "<li><button class=\"selectBtn\">イ</button><span id=\"select_i\">(n＋1) AND 256</span></li>",
+                "<li><button class=\"selectBtn\">ウ</button><span id=\"select_u\">(n＋1) OR 255</span></li>",
+                "<li><button class=\"selectBtn\">エ</button><span id=\"select_e\">(n＋1) OR 256</span></li>"
             ],
             "answer": 0
         }
