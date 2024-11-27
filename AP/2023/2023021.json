@@ -2,12 +2,12 @@
     "quizzes": [
         {
             "id": "2023021",
-            "mondai": "NAND素子を用いた次の組合せ回路の出力Zを表す式はどれか。ここで，\"・\"は論理積，\"＋\"は論理和，\"\nX\n\"はXの否定を表す。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "mondai": "NAND素子を用いた次の組合せ回路の出力Zを表す式はどれか。ここで，\"・\"は論理積，\"＋\"は論理和，\"<span class=\"ol\">X</span>\"はXの否定を表す。<div class=\"img_margin\"><img data-image-index=\"0\" src=\"AP/image/2023021-0.png\"/></div>",
             "sentaku": [
-                "X・Y",
-                "X＋Y",
-                "X・Y",
-                "X＋Y"
+                "<button class=\"selectBtn\">ア</button><span id=\"select_a\">X・Y</span>",
+                "<button class=\"selectBtn\" id=\"t\">イ</button><span id=\"select_i\">X＋Y</span>",
+                "<button class=\"selectBtn\">ウ</button><span id=\"select_u\"><span class=\"ol\">X・Y</span></span>",
+                "<button class=\"selectBtn\">エ</button><span id=\"select_e\"><span class=\"ol\">X＋Y</span> </span>"
             ],
             "answer": 1
         }
