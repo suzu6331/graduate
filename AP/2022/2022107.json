@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2022107",
+            "mondai": "XMLにおいて，XML宣言中で符号化宣言を省略できる文字コードはどれか。",
+            "sentaku": [
+                "<button class=\"selectBtn\">ア</button><span id=\"select_a\">EUC-JP</span>",
+                "<button class=\"selectBtn\">イ</button><span id=\"select_i\">ISO-2022-JP</span>",
+                "<button class=\"selectBtn\">ウ</button><span id=\"select_u\">Shift-JIS</span>",
+                "<button class=\"selectBtn\" id=\"t\">エ</button><span id=\"select_e\">UTF-16</span>"
+            ],
+            "answer": 3
+        }
+    ]
+}
