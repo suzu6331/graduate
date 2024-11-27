@@ -2,12 +2,12 @@
     "quizzes": [
         {
             "id": "2023012",
-            "mondai": "<div id=\"mondai\">有機ELディスプレイの説明として，適切なものはどれか。</div>",
+            "mondai": "有機ELディスプレイの説明として，適切なものはどれか。",
             "sentaku": [
-                "<li><button class=\"selectBtn\" id=\"t\">ア</button><span id=\"select_a\">電圧をかけて発光素子を発光させて表示する。</span></li>",
-                "<li><button class=\"selectBtn\">イ</button><span id=\"select_i\">電子ビームが発光体に衝突して生じる発光で表示する。</span></li>",
-                "<li><button class=\"selectBtn\">ウ</button><span id=\"select_u\">透過する光の量を制御することで表示する。</span></li>",
-                "<li><button class=\"selectBtn\">エ</button><span id=\"select_e\">放電によって発生した紫外線で，蛍光体を発光させて表示する。</span></li>"
+                "<button class=\"selectBtn\" id=\"t\">ア</button><span id=\"select_a\">電圧をかけて発光素子を発光させて表示する。</span>",
+                "<button class=\"selectBtn\">イ</button><span id=\"select_i\">電子ビームが発光体に衝突して生じる発光で表示する。</span>",
+                "<button class=\"selectBtn\">ウ</button><span id=\"select_u\">透過する光の量を制御することで表示する。</span>",
+                "<button class=\"selectBtn\">エ</button><span id=\"select_e\">放電によって発生した紫外線で，蛍光体を発光させて表示する。</span>"
             ],
             "answer": 0
         }
