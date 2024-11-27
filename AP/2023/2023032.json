@@ -4,10 +4,10 @@
             "id": "2023032",
             "mondai": "100Mビット／秒のLANと1Gビット／秒のLANがある。ヘッダーを含めて1,250バイトのパケットをN個送付するときに，100Mビット／秒のLANの送信時間が1Gビット／秒のLANより9ミリ秒多く掛かった。Nは幾らか。ここで，いずれのLANにおいても，パケットの送信間隔(パケットの送信が完了してから次のパケットを送信開始するまでの時間)は1ミリ秒であり，パケット送信間隔も送信時間に含める。",
             "sentaku": [
-                "10",
-                "80",
-                "100",
-                "800"
+                "<button class=\"selectBtn\">ア</button><span id=\"select_a\">10</span>",
+                "<button class=\"selectBtn\">イ</button><span id=\"select_i\">80</span>",
+                "<button class=\"selectBtn\" id=\"t\">ウ</button><span id=\"select_u\">100</span>",
+                "<button class=\"selectBtn\">エ</button><span id=\"select_e\">800</span>"
             ],
             "answer": 2
         }
