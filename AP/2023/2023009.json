@@ -4,10 +4,10 @@
             "id": "2023009",
             "mondai": "全ての命令が5ステージで完了するように設計された，パイプライン制御のCPUがある。20命令を実行するには何サイクル必要となるか。ここで，全ての命令は途中で停止することなく実行でき，パイプラインの各ステージは1サイクルで動作を完了するものとする。",
             "sentaku": [
-                "<button class=\"selectBtn\">ア</button><span id=\"select_a\">20</span>",
-                "<button class=\"selectBtn\">イ</button><span id=\"select_i\">21</span>",
-                "<button class=\"selectBtn\" id=\"t\">ウ</button><span id=\"select_u\">24</span>",
-                "<button class=\"selectBtn\">エ</button><span id=\"select_e\">25</span>"
+                "20",
+                "21",
+                "24",
+                "25"
             ],
             "answer": 2
         }
