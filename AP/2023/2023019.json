@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2023019",
+            "mondai": "ハッシュ表の理論的な探索時間を示すグラフはどれか。ここで，複数のデータが同じハッシュ値になることはないものとする。<div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "answer": 3
+        }
+    ]
+}
