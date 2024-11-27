@@ -2,12 +2,12 @@
     "quizzes": [
         {
             "id": "2023019",
-            "mondai": "<div id=\"mondai\">ハッシュ表の理論的な探索時間を示すグラフはどれか。ここで，複数のデータが同じハッシュ値になることはないものとする。</div>",
+            "mondai": "ハッシュ表の理論的な探索時間を示すグラフはどれか。ここで，複数のデータが同じハッシュ値になることはないものとする。",
             "sentaku": [
-                "<li><button class=\"selectBtn\">ア</button><span id=\"select_a\"><img alt=\"19a.png/image-size:176×190\" height=\"190\" src=\"AP/image/2023019-choice-0.png\" width=\"176\"/></span></li>",
-                "<li><button class=\"selectBtn\">イ</button><span id=\"select_i\"><img alt=\"19i.png/image-size:174×191\" height=\"191\" src=\"AP/image/2023019-choice-0.png\" width=\"174\"/></span></li>",
-                "<li><button class=\"selectBtn\">ウ</button><span id=\"select_u\"><img alt=\"19u.png/image-size:176×191\" height=\"191\" src=\"AP/image/2023019-choice-0.png\" width=\"176\"/></span></li>",
-                "<li><button class=\"selectBtn\" id=\"t\">エ</button><span id=\"select_e\"><img alt=\"19e.png/image-size:174×192\" height=\"192\" src=\"AP/image/2023019-choice-0.png\" width=\"174\"/></span></li>"
+                "<button class=\"selectBtn\">ア</button><span id=\"select_a\"><img data-image-index=\"0\" src=\"AP/image/2023019-choice-0.png\"/></span>",
+                "<button class=\"selectBtn\">イ</button><span id=\"select_i\"><img data-image-index=\"0\" src=\"AP/image/2023019-choice-0.png\"/></span>",
+                "<button class=\"selectBtn\">ウ</button><span id=\"select_u\"><img data-image-index=\"0\" src=\"AP/image/2023019-choice-0.png\"/></span>",
+                "<button class=\"selectBtn\" id=\"t\">エ</button><span id=\"select_e\"><img data-image-index=\"0\" src=\"AP/image/2023019-choice-0.png\"/></span>"
             ],
             "answer": 3
         }
