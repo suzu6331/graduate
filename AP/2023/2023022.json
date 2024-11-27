@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2023022",
+            "mondai": "図1の電圧波形の信号を，図2の回路に入力したときの出力電圧の波形はどれか。ここで，\nは抵抗(R)，\nはダイオード(D)，\nは接地を表す。なお，ダイオードの順電圧は0Vであるとする。<div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"1\"></div><div class=\"img_margin\"><img data-image-index=\"2\"></div><div class=\"img_margin\"><img data-image-index=\"3\"></div><div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "answer": 0
+        }
+    ]
+}
