@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2023047",
+            "mondai": "値引き条件に従って，商品を販売する。決定表の動作指定部のうち，適切なものはどれか。\n〔値引き条件〕\n上得意客(前年度の販売金額の合計が800万円以上の顧客)であれば，元値の3%を値引きする。\n高額取引(販売金額が100万円以上の取引)であれば，元値の3%を値引きする。\n現金取引であれば，元値の3%を値引きする。\n①～③の値引き条件は同時に適用する。\n〔決定表〕<div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "",
+                "",
+                "",
+                ""
+            ],
+            "answer": 2
+        }
+    ]
+}
