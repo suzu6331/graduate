@@ -2,12 +2,12 @@
     "quizzes": [
         {
             "id": "2023002",
-            "mondai": "平均が60，標準偏差が10の正規分布を表すグラフはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "mondai": "<div id=\"mondai\">平均が60，標準偏差が10の正規分布を表すグラフはどれか。</div>",
             "sentaku": [
-                "",
-                "",
-                "",
-                ""
+                "<li><button class=\"selectBtn\" id=\"t\">ア</button><span id=\"select_a\"><img alt=\"02a.png/image-size:191×139\" height=\"139\" src=\"AP/image/2023002-choice-0.png\" width=\"191\"/></span></li>",
+                "<li><button class=\"selectBtn\">イ</button><span id=\"select_i\"><img alt=\"02i.png/image-size:188×139\" height=\"139\" src=\"AP/image/2023002-choice-0.png\" width=\"188\"/></span></li>",
+                "<li><button class=\"selectBtn\">ウ</button><span id=\"select_u\"><img alt=\"02u.png/image-size:192×140\" height=\"140\" src=\"AP/image/2023002-choice-0.png\" width=\"192\"/></span></li>",
+                "<li><button class=\"selectBtn\">エ</button><span id=\"select_e\"><img alt=\"02e.png/image-size:188×140\" height=\"140\" src=\"AP/image/2023002-choice-0.png\" width=\"188\"/></span></li>"
             ],
             "answer": 0
         }
