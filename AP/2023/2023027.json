@@ -2,12 +2,12 @@
     "quizzes": [
         {
             "id": "2023027",
-            "mondai": "クライアントサーバシステムにおけるストアドプロシージャの記述として，\n誤っているもの\nはどれか。",
+            "mondai": "クライアントサーバシステムにおけるストアドプロシージャの記述として，<u>誤っているもの</u>はどれか。",
             "sentaku": [
-                "アプリケーションから一つずつSQL文を送信する必要がなくなる。",
-                "クライアント側のCALL文によって実行される。",
-                "サーバとクライアントの間での通信トラフィックを軽減することができる。",
-                "データの変更を行うときに，あらかじめDBMSに定義しておいた処理を自動的に起動・実行するものである。"
+                "<button class=\"selectBtn\">ア</button><span id=\"select_a\">アプリケーションから一つずつSQL文を送信する必要がなくなる。</span>",
+                "<button class=\"selectBtn\">イ</button><span id=\"select_i\">クライアント側のCALL文によって実行される。</span>",
+                "<button class=\"selectBtn\">ウ</button><span id=\"select_u\">サーバとクライアントの間での通信トラフィックを軽減することができる。</span>",
+                "<button class=\"selectBtn\" id=\"t\">エ</button><span id=\"select_e\">データの変更を行うときに，あらかじめDBMSに定義しておいた処理を自動的に起動・実行するものである。</span>"
             ],
             "answer": 3
         }
