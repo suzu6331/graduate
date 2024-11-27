@@ -2,12 +2,12 @@
     "quizzes": [
         {
             "id": "2023003",
-            "mondai": "<div id=\"mondai\">AIにおける機械学習で，2クラス分類モデルの評価方法として用いられるROC曲線の説明として，適切なものはどれか。</div>",
+            "mondai": "AIにおける機械学習で，2クラス分類モデルの評価方法として用いられるROC曲線の説明として，適切なものはどれか。",
             "sentaku": [
-                "<li><button class=\"selectBtn\" id=\"t\">ア</button><span id=\"select_a\">真陽性率と偽陽性率の関係を示す曲線である。</span></li>",
-                "<li><button class=\"selectBtn\">イ</button><span id=\"select_i\">真陽性率と適合率の関係を示す曲線である。</span></li>",
-                "<li><button class=\"selectBtn\">ウ</button><span id=\"select_u\">正解率と適合率の関係を示す曲線である。</span></li>",
-                "<li><button class=\"selectBtn\">エ</button><span id=\"select_e\">適合率と偽陽性率の関係を示す曲線である。</span></li>"
+                "<button class=\"selectBtn\" id=\"t\">ア</button><span id=\"select_a\">真陽性率と偽陽性率の関係を示す曲線である。</span>",
+                "<button class=\"selectBtn\">イ</button><span id=\"select_i\">真陽性率と適合率の関係を示す曲線である。</span>",
+                "<button class=\"selectBtn\">ウ</button><span id=\"select_u\">正解率と適合率の関係を示す曲線である。</span>",
+                "<button class=\"selectBtn\">エ</button><span id=\"select_e\">適合率と偽陽性率の関係を示す曲線である。</span>"
             ],
             "answer": 0
         }
