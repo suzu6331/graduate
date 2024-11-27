@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2022106",
+            "mondai": "未整列の配列 A[i](i=1，2，…，n)を，次の流れ図によって整列する。ここで用いられる整列アルゴリズムはどれか。<div class=\"img_margin\"><img data-image-index=\"0\" src=\"AP/image/2022106-0.png\"/></div>",
+            "sentaku": [
+                "<button class=\"selectBtn\">ア</button><span id=\"select_a\">クイックソート</span>",
+                "<button class=\"selectBtn\">イ</button><span id=\"select_i\">選択ソート</span>",
+                "<button class=\"selectBtn\">ウ</button><span id=\"select_u\">挿入ソート</span>",
+                "<button class=\"selectBtn\" id=\"t\">エ</button><span id=\"select_e\">バブルソート</span>"
+            ],
+            "answer": 3
+        }
+    ]
+}
