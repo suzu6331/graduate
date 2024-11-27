@@ -2,12 +2,12 @@
     "quizzes": [
         {
             "id": "2023004",
-            "mondai": "ドップラー効果を応用したセンサーで測定できるものはどれか。",
+            "mondai": "<div id=\"mondai\">ドップラー効果を応用したセンサーで測定できるものはどれか。</div>",
             "sentaku": [
-                "血中酸素飽和度",
-                "血糖値",
-                "血流量",
-                "体内水分量"
+                "<li><button class=\"selectBtn\">ア</button><span id=\"select_a\">血中酸素飽和度</span></li>",
+                "<li><button class=\"selectBtn\">イ</button><span id=\"select_i\">血糖値</span></li>",
+                "<li><button class=\"selectBtn\" id=\"t\">ウ</button><span id=\"select_u\">血流量</span></li>",
+                "<li><button class=\"selectBtn\">エ</button><span id=\"select_e\">体内水分量</span></li>"
             ],
             "answer": 2
         }
