@@ -2,12 +2,12 @@
     "quizzes": [
         {
             "id": "2023008",
-            "mondai": "<div id=\"mondai\">動作周波数1.25GHzのシングルコアCPUが1秒間に10億回の命令を実行するとき，このCPUの平均CPI(Cycles Per Instruction)として，適切なものはどれか。</div>",
+            "mondai": "動作周波数1.25GHzのシングルコアCPUが1秒間に10億回の命令を実行するとき，このCPUの平均CPI(Cycles Per Instruction)として，適切なものはどれか。",
             "sentaku": [
-                "<li><button class=\"selectBtn\">ア</button><span id=\"select_a\">0.8</span></li>",
-                "<li><button class=\"selectBtn\" id=\"t\">イ</button><span id=\"select_i\">1.25</span></li>",
-                "<li><button class=\"selectBtn\">ウ</button><span id=\"select_u\">2.5</span></li>",
-                "<li><button class=\"selectBtn\">エ</button><span id=\"select_e\">10</span></li>"
+                "<button class=\"selectBtn\">ア</button><span id=\"select_a\">0.8</span>",
+                "<button class=\"selectBtn\" id=\"t\">イ</button><span id=\"select_i\">1.25</span>",
+                "<button class=\"selectBtn\">ウ</button><span id=\"select_u\">2.5</span>",
+                "<button class=\"selectBtn\">エ</button><span id=\"select_e\">10</span>"
             ],
             "answer": 1
         }
