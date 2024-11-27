@@ -2,12 +2,12 @@
     "quizzes": [
         {
             "id": "2023005",
-            "mondai": "<div id=\"mondai\">要求に応じて可変量のメモリを割り当てるメモリ管理方式がある。要求量以上の大きさをもつ空き領域のうちで最小のものを割り当てる最適適合(best-fit)アルゴリズムを用いる場合，空き領域を管理するためのデータ構造として，メモリ割当て時の平均処理時間が最も短いものはどれか。</div>",
+            "mondai": "要求に応じて可変量のメモリを割り当てるメモリ管理方式がある。要求量以上の大きさをもつ空き領域のうちで最小のものを割り当てる最適適合(best-fit)アルゴリズムを用いる場合，空き領域を管理するためのデータ構造として，メモリ割当て時の平均処理時間が最も短いものはどれか。",
             "sentaku": [
-                "<li><button class=\"selectBtn\">ア</button><span id=\"select_a\">空き領域のアドレスをキーとする2分探索木</span></li>",
-                "<li><button class=\"selectBtn\">イ</button><span id=\"select_i\">空き領域の大きさが小さい順の片方向連結リスト</span></li>",
-                "<li><button class=\"selectBtn\" id=\"t\">ウ</button><span id=\"select_u\">空き領域の大きさをキーとする2分探索木</span></li>",
-                "<li><button class=\"selectBtn\">エ</button><span id=\"select_e\">アドレスに対応したビットマップ</span></li>"
+                "<button class=\"selectBtn\">ア</button><span id=\"select_a\">空き領域のアドレスをキーとする2分探索木</span>",
+                "<button class=\"selectBtn\">イ</button><span id=\"select_i\">空き領域の大きさが小さい順の片方向連結リスト</span>",
+                "<button class=\"selectBtn\" id=\"t\">ウ</button><span id=\"select_u\">空き領域の大きさをキーとする2分探索木</span>",
+                "<button class=\"selectBtn\">エ</button><span id=\"select_e\">アドレスに対応したビットマップ</span>"
             ],
             "answer": 2
         }
