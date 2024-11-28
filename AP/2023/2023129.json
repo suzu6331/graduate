@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2023129",
+            "mondai": "\"製品\"表と\"在庫\"表に対し，次のSQL文を実行した結果として得られる表の行数は幾つか。<div class=\"img_margin\"><img data-image-index=\"0\"></div><div class=\"img_margin\"><img data-image-index=\"1\"></div>",
+            "sentaku": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer": 1
+        }
+    ]
+}
