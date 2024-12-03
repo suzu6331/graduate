@@ -1,0 +1,10 @@
+{
+    "quizzes": [
+        {
+            "id": "2006113",
+            "mondai": "次に示すユークリッド互除法(方法1，方法2)で，正の整数a，b の最大公約数は，それぞれmとnのどちらの変数に求まるか。ここで，m mod n は mをnで割った余りを表す。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "kaitou": "<img data-image-index=\"0\">",
+            "answer": 2
+        }
+    ]
+}
