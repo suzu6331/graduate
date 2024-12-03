@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2006021",
+            "mondai": "ベクトルコンピュータの演算性能指標として使われるものはどれか。",
+            "sentaku": [
+                "Dhrystone",
+                "FLOPS",
+                "MIPS",
+                "SPECint"
+            ],
+            "answer": 1
+        }
+    ]
+}
