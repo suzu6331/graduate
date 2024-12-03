@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2020122",
+            "mondai": "モーターの速度制御などにPWM(Pulse Width Modulation)制御が用いられる。PWMの駆動波形を示したものはどれか。ここで，波形は制御回路のポート出力であり，低域通過フィルターを通していないものとする。",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 1
+        }
+    ]
+}
