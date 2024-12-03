@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2021129",
+            "mondai": "\"部門別売上\"表から，部門コードごと，期ごとの売上を得るSQL文はどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 1
+        }
+    ]
+}
