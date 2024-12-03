@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2005067",
+            "mondai": "三つのトランザクションT1，T2，T3が，①～⑪の順序でデータa，bに対する処理を行った場合，デッドロックとなるのはどの時点か。ここで，DBMSはREADの直前に共有ロック，UPDATEの直前に占有ロックをかけ，ROLLBACK又はCOMMITですべてのロックを解除する。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "⑤",
+                "⑥",
+                "⑦",
+                "⑧"
+            ],
+            "answer": 2
+        }
+    ]
+}
