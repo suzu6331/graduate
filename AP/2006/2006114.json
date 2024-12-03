@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2006114",
+            "mondai": "次の流れ図による処理を複数回実行した場合，途中に出現し得る実行順序はどれか。ここで，二重線は並列処理の同期を表す。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "B→A→B→A",
+                "B→X→A→Y",
+                "X→B→A→Y",
+                "Y→X→B→A"
+            ],
+            "answer": 1
+        }
+    ]
+}
