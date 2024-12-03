@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2005105",
+            "mondai": "A，B，C，Dを論理変数とするとき，次のカルノー図と等価な論理式はどれか。ここで，・は論理積，＋は論理和，XはXの否定を表す。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "A・B・D＋\nB\n・\nD",
+                "A・B・\nC\n・D＋\nB\n・\nD",
+                "A\n・\nB\n・\nD\n＋B・D",
+                "A\n・\nB\n・\nC\n・\nD\n＋B・D"
+            ],
+            "answer": 2
+        }
+    ]
+}
