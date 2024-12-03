@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2019123",
+            "mondai": "3ビットのデータx1，x2，x3に偶数パリティビットcを付加する回路はどれか。",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 2
+        }
+    ]
+}
