@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2024026",
+            "mondai": "\"部品\"表及び\"在庫\"表に対し，SQL文を実行して結果を得た。SQL文のaに入れる字句はどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>〔SQL文〕SELECT 部品.部品ID AS 部品ID，\nCASE WHEN 部品.発注点 >\na\nTHEN N'必要' ELSE N'不要' END AS 発注要否\nFROM 部品 LEFT OUTER JOIN 在庫\nON 部品.部品ID = 在庫.部品ID\nGROUP BY 部品.部品ID，部品.発注点",
+            "sentaku": [
+                "COALESCE(MIN(在庫.在庫数)，0)",
+                "COALESCE(MIN(在庫.在庫数)，NULL)",
+                "COALESCE(SUM(在庫.在庫数)，0)",
+                "COALESCE(SUM(在庫.在庫数)，NULL)"
+            ],
+            "answer": 2
+        }
+    ]
+}
