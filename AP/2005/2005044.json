@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2005044",
+            "mondai": "プロジェクトを大枠から詳細なレベルまでの具体的な作業に分解したものを何というか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "DFD",
+                "DOA",
+                "PERT",
+                "WBS"
+            ],
+            "answer": 3
+        }
+    ]
+}
