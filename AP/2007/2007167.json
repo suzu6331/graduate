@@ -1,0 +1,10 @@
+{
+    "quizzes": [
+        {
+            "id": "2007167",
+            "mondai": "トランザクションの並行制御において，変更消失(lostUpdate)の問題，コミットされていない依存性(uncommitted dependency)の問題，不整合分析(inconsistent analysis)の問題が起こる可能性がある。これらの問題を解決する技術と，その技術を使うことによって新たに発生する問題の組合せはどれか。",
+            "kaitou": "<img data-image-index=\"0\">",
+            "answer": 3
+        }
+    ]
+}
