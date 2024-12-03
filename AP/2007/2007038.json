@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2007038",
+            "mondai": "J2EE(Java 2 Platform, Enterprise Edition)の構成技術の一つはどれか。",
+            "sentaku": [
+                "EAI",
+                "JavaScript",
+                "Servlet",
+                "UDDI"
+            ],
+            "answer": 2
+        }
+    ]
+}
