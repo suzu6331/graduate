@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2006028",
+            "mondai": "ハッシュ法によるデータ編成法において，レコード値が図のような分布にしたがって発生する場合，シノニムの発生を最少とするハッシュアドレス(ハッシュした結果のアドレス値)の分布として適切なものはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 0
+        }
+    ]
+}
