@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2007037",
+            "mondai": "XML文書を別の文書構造をもつXML文書やHTML文書などに変換するための仕様はどれか。",
+            "sentaku": [
+                "CSS",
+                "DTD",
+                "XLink",
+                "XSLT"
+            ],
+            "answer": 3
+        }
+    ]
+}
