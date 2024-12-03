@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2005059",
+            "mondai": "図で示したネットワーク構成において，アプリケーションサーバA上のDBMSのデーモンが異常終了したという事象とその理由を，監視用サーバXで検知するのに有効な手段はどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "アプリケーションサーバAから監視用サーバXへのICMPあて先到達不能(Destination Unreachable)メッセージ",
+                "アプリケーションサーバAから監視用サーバXへのSNMP Trap PDU",
+                "監視用サーバXからアプリケーションサーバAへのfinger",
+                "監視用サーバXからアプリケーションサーバAへのping"
+            ],
+            "answer": 1
+        }
+    ]
+}
