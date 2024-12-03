@@ -4,10 +4,10 @@
             "id": "2024121",
             "mondai": "図はスイッチA及びBの状態によって，LEDが点灯又は消灯する回路である。スイッチAがオンの状態をA＝1，オフの状態をA＝0とし，スイッチBも同様にオンの状態をB＝1，オフの状態をB＝0とする。また，LEDが点灯する状態をY＝1，消灯する状態をY＝0とする。このとき，図の回路を動作させたときのタイミングチャートとして，適切なものはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
             "sentaku": [
+                "<img data-image-index=\"0\">",
                 "<img data-image-index=\"1\">",
                 "<img data-image-index=\"2\">",
-                "<img data-image-index=\"3\">",
-                "<img data-image-index=\"4\">"
+                "<img data-image-index=\"3\">"
             ],
             "answer": 2
         }
