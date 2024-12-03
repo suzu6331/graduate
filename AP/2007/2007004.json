@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2007004",
+            "mondai": "四つの整数を引数とする関数d(X1,Y1,X2,Y2)を，次のとおりに定義する。d(X1,Y1,X2,Y2)＝|X1－X2|＋|Y1－Y2|この関数は，2点(X1,Y1)と(X2,Y2)との間の2次元正方格子上の最短経路長を求めるものである。その性質に関する記述のうち，適切なものはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "d(0,0,X\n2\n,Y\n2\n)≦1を満たす整数の組(X\n2\n,Y\n2\n)は，全部で四つある。",
+                "d(2X\n1\n,2Y\n1\n,2X\n2\n,2Y\n2\n)＝4d(X\n1\n,Y\n1\n,X\n2\n,Y\n2\n)である。",
+                "d(X\n1\n,Y\n1\n,X\n2\n,Y\n2\n)＝0ならば，X\n1\n＝X\n2\n＝Y\n1\n＝Y\n2\nである。",
+                "d(X\n1\n,Y\n1\n,X\n2\n,Y\n2\n)＝d(Y\n2\n,X\n2\n,Y\n1\n,X\n1\n)である。"
+            ],
+            "answer": 3
+        }
+    ]
+}
