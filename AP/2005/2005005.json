@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2005005",
+            "mondai": "論理式 X＝A・B＋A・B＋A・B＋A・Bと同じ結果が得られる論理回路はどれか。ここで，は論理積(AND)，は論理和(OR)，は否定論理積(NAND)，は否定論理和(NOR)を表す。",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 1
+        }
+    ]
+}
