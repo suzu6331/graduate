@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2007066",
+            "mondai": "T1表とT2表が，次のように定義されているとき，次のSELECT文と同じ検索結果が得られるSELECT文はどれか。〔T1表の定義〕CREATE TABLE T1 (SNO CHAR(6) PRIMARY KEY, SNAME CHAR(20))〔T2表の定義〕CREATE TABLE T2 (CODE CHAR(4), SNO CHAR(6), SURYO INT)〔SQL文〕SELECT DISTINCT T1.SNAME\nFROM T1, T2\nWHERE T1.SNO = T2.SNO\nORDER BY T1.SNAME",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 0
+        }
+    ]
+}
