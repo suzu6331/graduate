@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2004009",
+            "mondai": "根付き木とは，根と呼ばれる特別な節点から木の枝が分かれるように，幾つかの辺が伸び，その先の節点から更に辺が伸びるということが繰り返されてできた構造である。根付き木の各節点vは，それぞれ3種類のポインタをもつ。Parent[v]：節点vの親を指すポインタFirstChild[v]：節点vの第1子を指すポインタNextBrother[v]：節点vの次の兄弟を指すポインタ<div class=\"img_margin\"><img data-image-index=\"0\"></div>ポインタが指す相手がいないときには，NIL という記号で表される値がポインタに設定される。節点vも含めて，その兄弟をすべて出力するとき，の部分に入れる手続はどれか。ここで，節点vは根ではなく，report x は節点xを出力する手続である。<div class=\"img_margin\"><img data-image-index=\"1\"></div>",
+            "sentaku": [
+                "x ← FirstChild[v]",
+                "x ← FirstChild[Parent[v]]",
+                "x ← NextBrother[v]",
+                "x ← NextBrother[Parent[v]]"
+            ],
+            "answer": 1
+        }
+    ]
+}
