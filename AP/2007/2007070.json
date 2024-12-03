@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2007070",
+            "mondai": "指定した列の値としてナル(NULL)は許すが，既に存在する値の入力を禁止するSQLの字句はどれか。",
+            "sentaku": [
+                "CHECK",
+                "REFERENCES",
+                "RESTRICT",
+                "UNIQUE"
+            ],
+            "answer": 3
+        }
+    ]
+}
