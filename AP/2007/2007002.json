@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2007002",
+            "mondai": "Random()は，0以上1未満の一様乱数を発生する関数である。次の一連の手順で得られるZの値が従う分布の概形はどれか。X＝Random()\nY＝Random()\nZ＝X＋Y",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 1
+        }
+    ]
+}
