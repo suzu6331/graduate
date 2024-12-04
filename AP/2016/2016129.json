@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2016129",
+            "mondai": "\"サッカーチーム\"表と\"審判\"表から，条件を満たす対戦を導出するSQL文のaに入れる字句はどれか。〔条件〕出場チーム1のチーム名は出場チーム2のチーム名よりもアルファベット順で先にくる。\n審判は，所属チームの対戦を担当することはできない。<div class=\"img_margin\"><img data-image-index=\"0\"></div>〔SQL文〕<div class=\"img_margin\"><img data-image-index=\"1\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 1
+        }
+    ]
+}
