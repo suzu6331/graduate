@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2023067",
+            "mondai": "Webで広告費を600,000円掛けて，単価1,500円の商品を1,000個販売した。ROAS(Return On Advertising Spend)は何%か。",
+            "sentaku": [
+                "40",
+                "60",
+                "250",
+                "600"
+            ],
+            "answer": 2
+        }
+    ]
+}
