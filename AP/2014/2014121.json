@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2014121",
+            "mondai": "図の回路を用いてアドレスバスからCS信号を作る。CS信号がLのときのアドレス範囲はどれか。ここで，アドレスバスは A0～A15 の16本で，A0 がLSBとする。また，解答群の数値は16進数である。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "3B00 ～ 3BFF",
+                "8300 ～ 9BFF",
+                "A400 ～ A4FF",
+                "C400 ～ C4FF"
+            ],
+            "answer": 3
+        }
+    ]
+}
