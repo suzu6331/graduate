@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2019027",
+            "mondai": "RDBMSにおいて，特定の利用者だけに表を更新する権限を与える方法として，適切なものはどれか。",
+            "sentaku": [
+                "CONNECT文で接続を許可する。",
+                "CREATE ASSERTION文で表明して制限する。",
+                "CREATE TABLE文の参照制約で制限する。",
+                "GRANT文で許可する。"
+            ],
+            "answer": 3
+        }
+    ]
+}
