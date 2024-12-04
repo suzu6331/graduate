@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2016027",
+            "mondai": "関数従属を次のように表記するとき，属性a～eで構成される関係を第3正規形にしたものはどれか。〔関数従属〕属性Xの値が与えられると，属性Yの値を一意に決めることができる。\n属性Xと属性Yの二つの値が与えられると，属性Zの値を一意に決めることができる。〔正規化する関係〕<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 3
+        }
+    ]
+}
