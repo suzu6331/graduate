@@ -1,0 +1,10 @@
+{
+    "quizzes": [
+        {
+            "id": "2006058",
+            "mondai": "図のようなIPネットワークのLAN環境で，ホストAからホストBにパケットを送信する。パケットがホストAからルータに伝送されるとき，LAN1において，パケット内のイーサネットフレームのあて先とIPデータグラムのあて先の組合せとして，適切なものはどれか。ここで，図中のMACn/IPm はホスト又はルータがもつインタフェースのMACアドレスとIPアドレスを示す。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "kaitou": "<img data-image-index=\"0\">",
+            "answer": 2
+        }
+    ]
+}
