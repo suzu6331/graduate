@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2011029",
+            "mondai": "関係データベースにおいて，表の中から特定の列だけを取り出す操作はどれか。",
+            "sentaku": [
+                "結合(join)",
+                "射影(projection)",
+                "選択(selection)",
+                "和(union)"
+            ],
+            "answer": 1
+        }
+    ]
+}
