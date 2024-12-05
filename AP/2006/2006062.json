@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2006062",
+            "mondai": "次のような繰返し構造をもったデータを，第3正規形に正規化したものはどれか。ここで，下線部分は主キーを表す。また，単位と単価は商品コードごとに決まるものとする。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 1
+        }
+    ]
+}
