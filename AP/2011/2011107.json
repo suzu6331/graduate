@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2011107",
+            "mondai": "n個の正の整数 x1,x2,…,xnが並んだ線形リストを [x1,x2,…,xn] で表し，空リストは[ ]で表す。次のように再帰的に定義される関数 func(L) を，L=[1,3,2] を実引数として呼び出したとき，print文によって表示される数字はどれか。ここで，プログラム中の=は等号，:=は代入を表す。〔関数の定義〕first([x\n1\n,x\n2\n,…,x\nn\n])はx\n1\nを返す。\nbutfirst([x\n1\n,x\n2\n,…,x\nn\n])は[x\n2\n,…,x\nn\n]を返す。butfirst([x])は[ ]を返す。\nmax(x,y)は，x≧yであればxを返し，そうでなければyを返す。func(L)\nbegin\nif L = [] then return 0;\nA := first(L);\nB := func(butfirst(L));\nC := max(A, B);\nprint C;\nreturn C;\nend",
+            "sentaku": [
+                "123",
+                "133",
+                "223",
+                "233"
+            ],
+            "answer": 3
+        }
+    ]
+}
