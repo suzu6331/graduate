@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2005065",
+            "mondai": "\"注文\"表と\"商品\"表の二つに対して，四つのビューを定義した。このうち，更新可能なビューはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 1
+        }
+    ]
+}
