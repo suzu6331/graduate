@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2005014",
+            "mondai": "次の流れ図を実行したとき，手続が終了するまでに何回の比較を行うか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "99",
+                "100",
+                "101",
+                "102"
+            ],
+            "answer": 3
+        }
+    ]
+}
