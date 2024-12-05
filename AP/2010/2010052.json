@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2010052",
+            "mondai": "図のプロジェクトを最短の日数で完了したいとき，作業Eの最遅開始日は何日目か。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "9",
+                "12",
+                "13",
+                "17"
+            ],
+            "answer": 2
+        }
+    ]
+}
