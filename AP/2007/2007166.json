@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2007166",
+            "mondai": "\"会員\"表に対して次のSQL文を実行した結果，導出される表はどれか。SELECT X.会員名\nFROM 会員 X, 会員 Y\nWHERE X.リーダ会員番号 = Y.会員番号\nAND X.生年月日 < Y.生年月日<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 3
+        }
+    ]
+}
