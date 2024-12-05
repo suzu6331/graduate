@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2010123",
+            "mondai": "DSP(Digital Signal Processor)の特徴的な演算機能はどれか。",
+            "sentaku": [
+                "積和演算",
+                "複素数演算",
+                "浮動小数点演算",
+                "論理演算"
+            ],
+            "answer": 0
+        }
+    ]
+}
