@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2022135",
+            "mondai": "次のURLに対し，受理するWebサーバのポート番号(8080)を指定できる箇所はどれか。https://www.example.com/member/login?id=user",
+            "sentaku": [
+                "クエリ文字列(id=user)の直後\nhttps://www.example.com/member/login?id=user:8080",
+                "スキーム(https)の直後\nhttps:8080://www.example.com/member/login?id=user",
+                "パス(/member/login)の直後\nhttps://www.example.com/member/login:8080?id=user",
+                "ホスト名(www.example.com)の直後\nhttps://www.example.com:8080/member/login?id=user"
+            ],
+            "answer": 3
+        }
+    ]
+}
