@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2006066",
+            "mondai": "四つの表\"注文\"，\"顧客\"，\"商品\"，\"注文明細\"がある。これらの表から，次のビュー\"注文一覧\"を作成するSQL文はどれか。ここで，下線の項目は主キーを表す。注文 (注文番号，注文日，顧客番号)顧客 (顧客番号，顧客名)商品 (商品番号，商品名)注文明細 (注文番号，商品番号，数量，単価)<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 1
+        }
+    ]
+}
