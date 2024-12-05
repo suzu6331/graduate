@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2007006",
+            "mondai": "図に示す論理回路と等価な真理値表はどれか。ここで，は論理積，は論理和，は否定を表す。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 2
+        }
+    ]
+}
