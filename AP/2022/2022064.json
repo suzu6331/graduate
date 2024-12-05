@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2022064",
+            "mondai": "IT投資効果の評価方法において，キャッシュフローベースで初年度の投資によるキャッシュアウトを何年後に回収できるかという指標はどれか。",
+            "sentaku": [
+                "IRR(Internal Rate of Return)",
+                "NPV(Net Present Value)",
+                "PBP(Pay Back Period)",
+                "ROI(Return On Investment)"
+            ],
+            "answer": 2
+        }
+    ]
+}
