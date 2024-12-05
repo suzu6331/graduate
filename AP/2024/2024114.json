@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2024114",
+            "mondai": "稼働率が等しい装置Xを直列や並列に組み合わせたとき，システム全体の稼働率を高い順に並べたものはどれか。ここで，装置Xの稼働率は0より大きく1未満である。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "A，B，C",
+                "A，C，B",
+                "C，A，B",
+                "C，B，A"
+            ],
+            "answer": 1
+        }
+    ]
+}
