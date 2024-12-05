@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2019127",
+            "mondai": "図のような関係データベースの\"注文\"表と\"注文明細\"表がある。\"注文\"表の行を削除すると，対応する\"注文明細\"表の行が，自動的に削除されるようにしたい。SQL文のON DELETE句に指定する語句はどれか。ここで，図中の実線の下線は主キーを，破線の下線は外部キーを表す。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "CASCADE",
+                "INTERSECT",
+                "RESTRICT",
+                "UNIQUE"
+            ],
+            "answer": 0
+        }
+    ]
+}
