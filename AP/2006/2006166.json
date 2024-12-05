@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2006166",
+            "mondai": "\"科目\"表と\"実習\"表に対して，次のSQL文を実行した結果，導出される表はどれか。SELECT 科目.科目番号\nFROM 科目, 実習\nWHERE 科目.科目番号=実習.科目番号\nUNION\nSELECT 科目.科目番号\nFROM 科目\nWHERE 単位数 >= 5<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 1
+        }
+    ]
+}
