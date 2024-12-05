@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2011129",
+            "mondai": "価格設定年月日にNULLを含む\"商品\"表に対して，次の問合せを行った。この検索結果の行数は幾つか。SELECT 商品コード FROM 商品 WHERE 価格設定年月日 < '2011-12-01'<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer": 1
+        }
+    ]
+}
