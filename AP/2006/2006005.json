@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2006005",
+            "mondai": "x，y，z を論理変数，Tを真，Fを偽とするとき，次の真理値表で示される関数 ƒ(x，y，z) を表す論理式はどれか。ここで∧は論理積，∨は論理和，AはAの否定を表す。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "(x∧y)∨(y∧z)",
+                "(x∧y)∨(\ny\n∧z)",
+                "(x∧y)∨(\ny\n∧\nz\n)",
+                "(x∧\ny\n)∨(\ny\n∧\nz\n)"
+            ],
+            "answer": 1
+        }
+    ]
+}
