@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2009150",
+            "mondai": "プロジェクトのタイムマネジメントのために次のアローダイアグラムを作成した。クリティカルパスはどれか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "A→C→E→G",
+                "A→D→H",
+                "B→E→F→H",
+                "B→E→G"
+            ],
+            "answer": 3
+        }
+    ]
+}
