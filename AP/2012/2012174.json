@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2012174",
+            "mondai": "EC(Electronic Commerce)におけるB to Cに該当するものはどれか。",
+            "sentaku": [
+                "CALS",
+                "Web-EDI",
+                "バーチャルカンパニー",
+                "バーチャルモール"
+            ],
+            "answer": 3
+        }
+    ]
+}
