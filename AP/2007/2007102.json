@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2007102",
+            "mondai": "図に示す16ビットの浮動小数点形式において，10進数 0.25 を正規化した表現はどれか。ここで，正規化は仮数部の最上位けたが1になるように指数部と仮数部を調節する操作とする。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 2
+        }
+    ]
+}
