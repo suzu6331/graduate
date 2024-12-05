@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2006015",
+            "mondai": "条件1～4の検査する順序を変えても，動作が変化しない決定表はどれか。ここで，\"－\"は条件を判定しないことを表す。",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 0
+        }
+    ]
+}
