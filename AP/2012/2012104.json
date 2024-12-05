@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2012104",
+            "mondai": "式E＝(A＋B)×(C－D)と対応する逆ポーランド表記法はどれか。",
+            "sentaku": [
+                "＝E×＋AB－CD",
+                "EAB＋CD－×＝",
+                "EAB－CD＋×＝",
+                "EABC×＋D－＝"
+            ],
+            "answer": 1
+        }
+    ]
+}
