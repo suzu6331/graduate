@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2012128",
+            "mondai": "R表に，(A，B)の2列で一意にする制約(UNIQUE制約)が定義されているとき，R表に対するSQL文のうち，この制約に違反するものはどれか。ここで，R表には主キーの定義がなく，また，全ての列は値が決まっていない場合(NULL)もあるものとする。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">",
+                "<img data-image-index=\"4\">"
+            ],
+            "answer": 3
+        }
+    ]
+}
