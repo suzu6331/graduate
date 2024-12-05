@@ -1,0 +1,10 @@
+{
+    "quizzes": [
+        {
+            "id": "2009105",
+            "mondai": "n個の要素x1，x2，…，xnから成る連結リストに対して，新たな要素xn+1の末尾への追加に要する時間をƒ(n)とし，末尾の要素xnの削除に要する時間をg(n)とする。nが非常に大きいとき，実装方法1と実装方法2におけるg(n)\nƒ(n)の挙動として，適切なものはどれか。〔実装方法1〕先頭のセルを指すポインタ型の変数 front だけをもつ。<div class=\"img_margin\"><img data-image-index=\"0\"></div>〔実装方法2〕先頭のセルを指すポインタ型の変数 front と，末尾のセルを指すポインタ型の変数 rear を併せもつ。<div class=\"img_margin\"><img data-image-index=\"1\"></div>",
+            "kaitou": "<img data-image-index=\"0\">",
+            "answer": 1
+        }
+    ]
+}
