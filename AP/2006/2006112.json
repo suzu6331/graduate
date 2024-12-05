@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2006112",
+            "mondai": "fact(n)は，非負の整数nに対してnの階乗を返す。fact(n)の再帰的な定義はどれか。",
+            "sentaku": [
+                "if n＝0 then 0 else return n*fact(n－1)",
+                "if n＝0 then 0 else return n*fact(n＋1)",
+                "if n＝0 then 1 else return n*fact(n－1)",
+                "if n＝0 then 1 else return n*fact(n＋1)"
+            ],
+            "answer": 2
+        }
+    ]
+}
