@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2009003",
+            "mondai": "論理式 <span class=\"dol\">(<span class=\"ol\">A</span>＋B)・(A＋<span class=\"ol\">C</span>)</span> と等しいものはどれか。ここで，・論理積，＋は論理和，<span class=\"ol\">x</span> はXの否定を表す。",
+            "sentaku": [
+                "A・\nB\n＋\nA\n・C",
+                "A\n・B＋A・\nC",
+                "(A＋\nB\n)・(\nA\n＋C)",
+                "(\nA\n＋B)・(A＋\nC\n)"
+            ],
+            "answer": 0
+        }
+    ]
+}
