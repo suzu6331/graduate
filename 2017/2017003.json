@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2017003",
+            "mondai": "XとYの否定論理積 X NAND Yは，NOT(X AND Y)として定義される。X OR YをNANDだけを使って表した論理式はどれか。",
+            "sentaku": [
+                "((X NAND Y) NAND X) NAND Y",
+                "(X NAND X) NAND (Y NAND Y)",
+                "(X NAND Y) NAND (X NAND Y)",
+                "X NAND (Y NAND (X NAND Y))"
+            ],
+            "answer": 1
+        }
+    ]
+}
