@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2011032",
+            "mondai": "Javaのアプリケーションプログラムがデータベースにアクセスするための標準的なAPI(Application Program Interface)はどれか。",
+            "sentaku": [
+                "HTML",
+                "JavaVM",
+                "JDBC",
+                "SQL"
+            ],
+            "answer": 2
+        }
+    ]
+}
