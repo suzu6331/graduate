@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2017053",
+            "mondai": "テスト工程での品質状況を判断するためには，テスト項目消化件数と累積バグ件数との関係を分析し，評価する必要がある。品質が安定しつつあることを表しているグラフはどれか。",
+            "sentaku": [
+                "<img data-image-index=\"0\">",
+                "<img data-image-index=\"1\">",
+                "<img data-image-index=\"2\">",
+                "<img data-image-index=\"3\">"
+            ],
+            "answer": 3
+        }
+    ]
+}
