@@ -1,0 +1,15 @@
+{
+    "quizzes": [
+        {
+            "id": "2017049",
+            "mondai": "流れ図において，判定条件網羅(分岐網羅)を満たす最少のテストケース数は幾つか。<div class=\"img_margin\"><img data-image-index=\"0\"></div>",
+            "sentaku": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer": 1
+        }
+    ]
+}
